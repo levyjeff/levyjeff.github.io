@@ -4,7 +4,7 @@ excerpt: "We quantify and study state-level economic policy uncertainty. Tapping
 collection: research
 date: 2022-09-01
 venue: 'Journal of Monetary Economics'
-citation: 'Baker, Scott R., Steven J. Davis, and Jeffrey A. Levy. "State-level economic policy uncertainty." _Journal of Monetary Economics_ 132 (2022): 81-99'
+citation: 'Baker, Scott R., Steven J. Davis, and Jeffrey A. Levy. "State-level economic policy uncertainty." Journal of Monetary Economics 132 (2022): 81-99'
 paperurl: 'https://doi.org/10.1016/j.jmoneco.2022.08.004'
 ---
 
