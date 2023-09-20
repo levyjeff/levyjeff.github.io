@@ -1,8 +1,9 @@
 ---
 title: "Essays on Uncertainty and Macroeconomic Dynamics"
-excerpt: "My Ph.D dissertation at American University.  See the abstract within."
-collection: portfolio
-date: January 15, 2021
+excerpt: "My Ph.D dissertation.  See details within."
+collection: research
+date: 2021-01-15
+venue: 'American University'
 ---
 
 ### Committee
