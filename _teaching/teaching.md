@@ -18,7 +18,7 @@ The first course in the Harris School Certificate in Data Analytics sequence, PP
   - Develop skills that apply directly to summer internships or entry-level research assistaint positions
     
 This course is required in order to take PPHA 30538 in the autumn, and is also available at Harris in R (PPHA 30535).  
-__Quarters taught:__ _ Spring 2023, Spring 2022, Spring 2021, Summer 2020, Spring 2020, Spring 2019_  
+__Quarters taught:__ _Spring 2023, Spring 2022, Spring 2021, Summer 2020, Spring 2020, Spring 2019_  
 __Next taught:__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Spring 2023_
  
 ### PPHA 30538/30536: Data and Programming for Public Policy II (Python/R)
