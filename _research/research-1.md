@@ -1,11 +1,12 @@
 ---
 title: "State-level Economic Policy Uncertainty"
 excerpt: "With Scott Baker and Steven Davis.  _Journal of Monetary Economics._ 132 (2022): 81-99. [[Paper]](https://doi.org/10.1016/j.jmoneco.2022.08.004) [[Replication package]](https://policyuncertainty.com/State EPU Replication File.rar) [[State EPU Data]](https://www.policyuncertainty.com/state_epu.html)"
-collection: portfolio
-date: September 01 2022
+collection: research
+date: 2022-09-01
+venue: 'Journal of Monetary Economics'
+citation: 'Baker, Scott R., Steven J. Davis, and Jeffrey A. Levy. "State-level economic policy uncertainty." *Journal of Monetary Economics* 132 (2022): 81-99
+paperurl: 'https://doi.org/10.1016/j.jmoneco.2022.08.004'
 ---
-
-[Paper](https://doi.org/10.1016/j.jmoneco.2022.08.004)
 
 [Replication package](https://policyuncertainty.com/State EPU Replication File.rar)
 
