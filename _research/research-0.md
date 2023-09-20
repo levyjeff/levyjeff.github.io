@@ -1,8 +1,8 @@
 ---
 title: "Causal Effects of Uncertainty: Evidence from Military Base Realignment and Closures"
 excerpt: "With Gabriel Mathy and Simon Sheng.  Working paper pending."
-collection: portfolio
-date: September 21st 2023
+collection: research
+date: 2023-09-21
 ---
 
 Presentations:
