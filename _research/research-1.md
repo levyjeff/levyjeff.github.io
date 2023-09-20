@@ -1,19 +1,22 @@
 ---
-title: "State-level Economic Policy Uncertainty"
-excerpt: "We quantify and study state-level economic policy uncertainty. Tapping digital archives for nearly 3500 local newspapers, we construct three monthly indexes for each state: one that captures state and local sources of policy uncertainty (EPU-S), one that captures national and international sources (EPU-N), and a composite index that captures both. EPU-S rises around gubernatorial elections and own-state episodes like the California electricity crisis of 2000–01 and the Kansas tax experiment of 2012. EPU-N rises around presidential elections and in response to 9–11, Gulf Wars I and II, the 2011 debt-ceiling crisis, the 2012 fiscal cliff episode, and federal government shutdowns. Close elections elevate policy uncertainty much more than the average election. VAR models fit to pre-COVID data imply that upward shocks to own-state EPU foreshadow weaker economic performance in the state, as do upward EPU shocks in contiguous states. The COVID-19 pandemic drove huge increases in policy uncertainty and unemployment, more so in states with stricter government-mandated lockdowns."
-collection: research
-date: 2022-09-01
-venue: 'Journal of Monetary Economics'
-citation: 'Baker, Scott R., Steven J. Davis, and Jeffrey A. Levy. "State-level economic policy uncertainty." Journal of Monetary Economics 132 (2022): 81-99'
-paperurl: 'https://doi.org/10.1016/j.jmoneco.2022.08.004'
+title: "Spark for Social Science"
+excerpt: "Research Programming at the Urban Institute: The platform, tools, and lessons to help bridge the gap between social science researchers and the big data methods used in data science."
+collection: projects
+date: January 01, 2016
 ---
 
-[Replication package](https://policyuncertainty.com/State EPU Replication File.rar)
+Social science research has, if anything, struggled with too little data rather than too much.  Many researchers have therefore understandably lagged behind in both the understanding and the capabilities necessary to work with the sorts of big data available today.  This project, funded by the Alfred P. Sloan Foundation, begins to bridge that gap.
 
-[State EPU Data](https://www.policyuncertainty.com/state_epu.html)
+We focus on the immediate technical hurdles researchers might face in attempting to work with big data, including terminlogy and programming languages.  The project also address some of the theoretical issues researchers face with big data, such as the nature of models under distributed computing (e.g. SGD or LM-BFGS) and the lack of an interpretation of p-values when data is arbitrarily large.
 
-[Interactive data explorer](https://levyjeff.shinyapps.io/epu_data/)
+The project produced a seamless web platform for Urban researchers to access the Apache Spark distributed computing system by automating deployment of user-defined clusters on Amazon Web Services.  We also created interactive code tutorials in both Python and R, and a more detailed manual for the whole project.  And finally, there were multiple public presentations, both in person at the Urban campus and off site, as well as webinars.
 
-__Abstract:__
+## Winner of the 2017 Urban Institute President's Award.
 
-We quantify and study state-level economic policy uncertainty. Tapping digital archives for nearly 3500 local newspapers, we construct three monthly indexes for each state: one that captures state and local sources of policy uncertainty (EPU-S), one that captures national and international sources (EPU-N), and a composite index that captures both. EPU-S rises around gubernatorial elections and own-state episodes like the California electricity crisis of 2000–01 and the Kansas tax experiment of 2012. EPU-N rises around presidential elections and in response to 9–11, Gulf Wars I and II, the 2011 debt-ceiling crisis, the 2012 fiscal cliff episode, and federal government shutdowns. Close elections elevate policy uncertainty much more than the average election. VAR models fit to pre-COVID data imply that upward shocks to own-state EPU foreshadow weaker economic performance in the state, as do upward EPU shocks in contiguous states. The COVID-19 pandemic drove huge increases in policy uncertainty and unemployment, more so in states with stricter government-mandated lockdowns.
+[Project website](https://adrf.urban.org/)
+
+[PySpark tutorials](https://github.com/UrbanInstitute/pyspark-tutorials)
+
+[SparkR tutorials](https://github.com/UrbanInstitute/sparkr-tutorials)
+
+[Spark for Social Science manual](https://github.com/UrbanInstitute/spark-social-science-manual)

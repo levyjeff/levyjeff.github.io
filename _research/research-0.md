@@ -1,12 +1,10 @@
 ---
-title: "Causal Effects of Uncertainty: Evidence from Military Base Realignment and Closures"
-excerpt: "[5th Biennial Conference, Padua, Italy (September 21st 2023): Uncertainty, Economic Activity, and Forecasting in a Changing Environment](https://www.economia.unipd.it/en/uncertainty-economic-activity-and-forecasting-changing-environment); [SITE 2023, Stanford University (September 8th 2023): The Macroeconomics of Uncertainty and Volatility](https://economics.stanford.edu/events/site-2023/session-12-macroeconomics-uncertainty-and-volatility)"
-collection: research
-date: 2023-09-21
-citation: 'Levy, Jeffrey A., Gabriel P. Mathy, and Xuguang Simon Sheng. <i>Causal Effects of Uncertainty: Evidence from Military Base Realignment and Closures</i> (2023)'
+title: "Contract Enforcement and Group Formation"
+excerpt: "PhD research at American University, building an agent based model in Python to simulate the contract enforcement problem of the Maghribi Traders, as modeled in the game theory work of Grief 2006."
+collection: projects
+date: July 10, 2014
 ---
 
-Working paper pending.
+Summary pending
 
-
-
+Presented at the Center for Advanced Modeling Graduate Workshop at Johns Hopkins University, Baltimore, MD, July 10, 2014.
