@@ -8,7 +8,7 @@ date: 2023-09-21
 citation: 'Levy, Jeffrey A., Gabriel P. Mathy, and Xuguang Simon Sheng. *Causal Effects of Uncertainty: Evidence from Military Base Realignment and Closures* (2023)'
 ---
 
-
+Working paper pending.
 
 
 
