@@ -1,4 +1,4 @@
-{% include base_path %}
+e{% include base_path %}
 
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
@@ -38,7 +38,7 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-        {% if post.collection == 'teaching' and post.date %}
+        {% if post.collection == 'teaching' and post.venue %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% if post.collection == 'research' and post.venue %}
           <p><i class="fa fa-fw fa-paper-plane" aria-hidden="true"></i><strong> Published: </strong><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
