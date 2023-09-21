@@ -2,6 +2,9 @@
 permalink: /teaching/
 title: "Teaching"
 collection: teaching
+type: Assistaint Instructional Professor
+venue: Harris School of Public Policy
+date: 2023-09-26
 ---
 
 I am passionate about teaching good data and programming skills to researchers.  Many programs in the social sciences teach multiple semesters of statistcs or econometrics, while paying scant attention to dealing with data in a rigorous way, despite the fact that successful research requires both.  This has become my niche at the Harris School, where I designed and regularly teach three of the core courses in the [Certificate in Data Analytics](https://harris.uchicago.edu/academics/design-your-path/certificates/certificate-data-analytics) program for MPP students.
