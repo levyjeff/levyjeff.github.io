@@ -1,7 +1,7 @@
 ---
 title: "National Center for Charitable Statistics IRS Core Files"
 excerpt: "Center on Nonprofits and Philanthropy at the Urban Institute: Converting an outdated process of mixed manual and SQL code into a seamless 4,000-line Python script, in order to build the NCCS IRS Core Files."
-collection: projects
+collection: research
 date: January 01, 2016
 ---
 

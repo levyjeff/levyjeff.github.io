@@ -1,7 +1,7 @@
 ---
 title: "Parole Officer Text Messages"
 excerpt: "Metro Policy Center at the Urban Institute: A project studying a proprietary dataset of text messages between parole officers and parolees."
-collection: portfolio
+collection: research
 date: January 01, 2016
 ---
 

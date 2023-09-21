@@ -1,7 +1,7 @@
 ---
 title: "Education Data"
 excerpt: "Income and Benefits Policy Center at the Urban Institute: Using Python to seamlessly maintain a network of datasets across Stata, SQL and S3 formats."
-collection: projects
+collection: research
 date: January 01, 2016
 ---
 

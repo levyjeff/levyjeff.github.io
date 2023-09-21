@@ -1,7 +1,7 @@
 ---
 title: "DC Courts Web Scraping"
 excerpt: "Justice Policy Center at the Urban Institute: Responsibly automating millions of connections to the DC Courts website in order to retrieve and parse public data."
-collection: projects
+collection: research
 date: January 01, 2016
 ---
 
