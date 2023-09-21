@@ -84,9 +84,9 @@ author:
   avatar           : "bio-photo.jpg"
   bio              : "Economist and lecturer at the <a style='color: black;' href='https://harris.uchicago.edu/'>Harris School of Public Policy</a>."
   location         : "Chicago, IL"
-  employer         :
+  employer         : "University of Chicago"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=Hr3OVmkAAAAJ&hl=en"
   email            : "levyjeff@uchicago.edu"
   researchgate     :  
   uri              :
