@@ -6,8 +6,13 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /news.html
+  - /news/
 ---
-Testing
+
+* **2023 Sep 26** Looking forward to the start of a new quarter at Harris teaching DAP2 in Python!
+* **2023 Sep 21** My co-author Xuguang Simon Sheng presented our [paper](/research/research-8/) at the 5th Biennial Conference in Padua, Italy.
+* **2023 Sep 08** We presented our new paper on the [causal effects of economic uncertainty](/research/research-8/) at the SITE 2023 conference. It was great to visit Stanford and hear the latest on uncertainty research!
 
 # About me
 
