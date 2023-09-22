@@ -14,7 +14,7 @@ redirect_from:
 * **2023 Sep 21** My co-author Xuguang Simon Sheng presented our [paper](/research/research-8/) at the 5th Biennial Conference in Padua, Italy.
 * **2023 Sep 08** We presented our new paper on the [causal effects of economic uncertainty](/research/research-8/) at the SITE 2023 conference. It was great to visit Stanford and hear the latest on uncertainty research!
 
-# About me
+<h1 class="page__title" itemprop="headline">About me</h1>
 
 Welcome, and thanks for visiting my site!  I am an economist and lecturer in public policy whose career has focused on the intersection data science and social science.  My career began as a researcher at think tanks in Washington DC, where I had the opportunity to join a wide variety of projects.  In that time I identified three related issues in the field that I use as the foundation of the data and programming courses I teach at the Harris School:
 
