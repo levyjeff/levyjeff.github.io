@@ -1,12 +1,15 @@
 ---
 permalink: /
-title: "About me"
+title: "News"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Testing
+
+# About me
 
 Welcome, and thanks for visiting my site!  I am an economist and lecturer in public policy whose career has focused on the intersection data science and social science.  My career began as a researcher at think tanks in Washington DC, where I had the opportunity to join a wide variety of projects.  In that time I identified three related issues in the field that I use as the foundation of the data and programming courses I teach at the Harris School:
 
