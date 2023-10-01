@@ -23,7 +23,7 @@ The first course in the Harris School Certificate in Data Analytics sequence, PP
     
 This course is required in order to take PPHA 30538 in the autumn, and is also available at Harris in R (PPHA 30535).  
 __Quarters taught:__ _Spring 2023, Spring 2022, Spring 2021, Summer 2020, Spring 2020, Spring 2019_  
-__Next taught:__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Spring 2024_
+__Next taught:__ _Spring 2024_
  
 ### PPHA 30538/30536: Data and Programming for Public Policy II (Python/R)
 This course will build directly on the material covered in PPHA 30537 (or 30535 in R).  We will assume a grasp of the Python (R) skills from the previous class at the start, so that we can focus on practical applications to research.  Whereas the goal of the first class was to introduce Python (R) as a tool for data analysis, and to prepare students for internship-level policy research positions, the goals of this course will be to:
@@ -35,12 +35,12 @@ This course will build directly on the material covered in PPHA 30537 (or 30535 
     
 This course is available in both Python and R, and requires either having taken the first course in the correct language, or instructor approval.  
 __Quarters taught:__ _Autumn 2022 (R and Python), Autumn 2021 (Python), Winter 2021 (R), Autumn 2020 (Python), Autumn 2019 (Python)_  
-__Next taught:__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Autumn 2023 (Python)_
+__Next taught:__ _Autumn 2023 (Python)_
 
 
 ### PPHA 52000: Individual Reading and Research
 Exceptional students from PPHA 30538 and 30536 who have a well-thought-out research idea that they wish to develop further before graduation may request this independent study course.  The course is tailored to each individual, and will be largely self-driven with regular meetings, similar to the way work on a PhD dissertation would proceed.  
-__Quarters taught:__ _Spring 2023, Spring 2021_
+__Quarters taught:__ _Autumn 2023, Spring 2023, Spring 2021_
 
 ### PPHA 23400: Principles of Microeconomics and Public Policy II
 This course is the second of a two-part sequence, preceded by Principles of Microeconomics and Public Policy I (PPHA 32300).  We will build on the content of the first class, which focused on perfect competition, by studying the many ways markets fail to act perfectly competitive.  Each section will combine the underlying theory with discussions of practical applications, culminating in a final project that uses published economic research on the topics studied.  Over the quarter, students will learn:
