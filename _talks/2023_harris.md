@@ -13,10 +13,11 @@ What skills from graduate school are most important to a new junior researcher o
 ### Panel 1:
 Chandler Hall, MPP 2023 - Senior Policy Analyst, Center on American Progress
 Lindsay Hiser, MPP 2023 - Survey Methodologist, RTI International
--
+Wenshi Wang, MPP 2022 - Data Scientist, Uber
 
 ### Panel 2:
-Rachel Ruttenberg - Deputy Chief of Staff, Cook County Office of the President
+Jessica Kelly - Senior Director, Research and Web Technlology, Urban Institute
 Laura Meyer - Researcher, Mathematica
 Martin Barron - Senior Director of Data and Analytics, UChicago Urban Labs
 
+See full description [here](/files/2023_flier.pdf).
