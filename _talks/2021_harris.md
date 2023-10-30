@@ -5,7 +5,7 @@ type: "Annual discussion panel"
 permalink: /talks/10/14/2021_harris
 venue: "Harris School of Public Policy"
 date: 2023/10/27
-location: "Web"
+location: "Hybrid"
 ---
 
 What skills from graduate school are most important to a new junior researcher or data professional (perhaps surprisingly so)?  What have new graduates discovered they wish they had learned before starting as a professional in research and data?  Join us for two panels; in the first, a group of recent Harris graduates discuss their entry into the field, and in the second a group of hiring managers in research programming related fields discuss their experiences with new graduates.
