@@ -54,7 +54,7 @@ This course is intended for students in the MSCAPP program, and will therefore i
 __Quarters taught:__ _Spring 2020, Spring 2019_
 
 ## University of Chicago, Harris School of Public Policy, Graduate Development Program
-In the autumn of 2023 I will be part of a Harris School program working with the [Decesion Support Center](/files/DSC_Profile.pdf), a research center within the government of Saudi Arabia.  The program trains top graduates from Saudi universities in rigorous policy understanding and analysis, in preparation for entering public sector work.  I will be developing and remotely teaching one section on MatLab in October, and will travel to Riyadh for two weeks in December to oversee the capstone projects and presentations for students in the Data Management track.
+In the autumn of 2023 I will be part of a Harris School program working with the [Decision Support Center](/files/DSC_Profile.pdf), a research center within the government of Saudi Arabia.  The program trains top graduates from Saudi universities in rigorous policy understanding and analysis, in preparation for entering public sector work.  I will be developing and remotely teaching one section on MatLab in October, and will travel to Riyadh for two weeks in December to oversee the capstone projects and presentations for students in the Data Management track.
 
 ## American University, Department of Economics
 ### ECON 200: Principles of Microeconomics
