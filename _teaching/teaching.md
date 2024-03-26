@@ -7,7 +7,7 @@ venue: Harris School of Public Policy
 date: 2023-09-26
 ---
 
-I am passionate about teaching good data and programming skills to researchers.  Many programs in the social sciences teach multiple semesters of statistcs or econometrics, while paying scant attention to dealing with data in a rigorous way, despite the fact that successful research requires both.  This has become my niche at the Harris School, where I designed and regularly teach three of the core courses in the [Certificate in Data Analytics](https://harris.uchicago.edu/academics/design-your-path/certificates/certificate-data-analytics) program for MPP students.
+I am passionate about teaching good data and programming skills to researchers.  Many programs in the social sciences teach multiple semesters of statistcs or econometrics while paying scant attention to dealing with data in a rigorous way, despite the fact that successful research requires both.  This has become my niche at the Harris School, where I designed and regularly teach three of the core courses in the [Certificate in Data Analytics](https://harris.uchicago.edu/academics/design-your-path/certificates/certificate-data-analytics) program for MPP students.
 
 ## University of Chicago, Harris School of Public Policy
 ### PPHA 30537: Data and Programming for Public Policy I (Python)
@@ -15,15 +15,15 @@ The first course in the Harris School Certificate in Data Analytics sequence, PP
 
   - Learn to write basic Python and apply the PEP8 style guide
   - Gain a deeper understanding of how Python works, including functions and classes
-  - Learn the tools of data analysis in Python, including GitHub, Pandas, MatPlotLib, Spacy, and BeautifulSoup
+  - Learn the tools of data analysis in Python, including GitHub, Pandas, MatPlotLib, and BeautifulSoup
     
   - Practice good programming and data principles that will benefit the student when working in any platform, including R, Stata, and SAS
   - Understand how good programming relates to reproducible research
   - Develop skills that apply directly to summer internships or entry-level research assistaint positions
     
 This course is required in order to take PPHA 30538 in the autumn, and is also available at Harris in R (PPHA 30535).  
-__Quarters taught:__ _Spring 2023, Spring 2022, Spring 2021, Summer 2020, Spring 2020, Spring 2019_  
-__Next taught:__ _Spring 2024_
+__Quarters taught:__ _Spring 2019-2024, Summer 2020_  
+__Next taught:__ _Currently_
  
 ### PPHA 30538/30536: Data and Programming for Public Policy II (Python/R)
 This course will build directly on the material covered in PPHA 30537 (or 30535 in R).  We will assume a grasp of the Python (R) skills from the previous class at the start, so that we can focus on practical applications to research.  Whereas the goal of the first class was to introduce Python (R) as a tool for data analysis, and to prepare students for internship-level policy research positions, the goals of this course will be to:
@@ -34,8 +34,8 @@ This course will build directly on the material covered in PPHA 30537 (or 30535 
   - Prepare for the post-graduation job market
     
 This course is available in both Python and R, and requires either having taken the first course in the correct language, or instructor approval.  
-__Quarters taught:__ _Autumn 2022 (R and Python), Autumn 2021 (Python), Winter 2021 (R), Autumn 2020 (Python), Autumn 2019 (Python)_  
-__Next taught:__ _Autumn 2023 (Python)_
+__Quarters taught:__ _Autumn 2019-2023 (Python), Autumn 2022 (R), Winter 2021 (R)_  
+__Next taught:__ _Autumn 2024 (Python)_
 
 
 ### PPHA 52000: Individual Reading and Research
@@ -50,11 +50,11 @@ This course is the second of a two-part sequence, preceded by Principles of Micr
   - The basics of applying game theory to the economy
   - Market simulations and modeling
     
-This course is intended for students in the MSCAPP program, and will therefore introduce elements of programming to the curriculum.  As such, a solid understanding of the Python programming language is required for several sections.  
-__Quarters taught:__ _Spring 2020, Spring 2019_
+This course is intended for students in the MSCAPP program, and will therefore introduce elements of programming to the curriculum.  As such, a solid understanding of the Python programming language is required.  
+__Quarters taught:__ _Spring 2019-2020_
 
 ## University of Chicago, Harris School of Public Policy, Graduate Development Program
-In the autumn of 2023 I will be part of a Harris School program working with the [Decision Support Center](/files/DSC_Profile.pdf), a research center within the government of Saudi Arabia.  The program trains top graduates from Saudi universities in rigorous policy understanding and analysis, in preparation for entering public sector work.  I will be developing and remotely teaching one section on MatLab in October, and will travel to Riyadh for two weeks in December to oversee the capstone projects and presentations for students in the Data Management track.
+In the autumn of 2023 I was part of a Harris School program working with the [Decision Support Center](/files/DSC_Profile.pdf), a research center within the government of Saudi Arabia.  The program trains top graduates from Saudi universities in rigorous policy understanding and analysis in preparation for entering public sector work.  I developed and remotely taught one section on MATLAB in October, then traveled to Riyadh for two weeks in December to oversee the capstone projects and presentations for students in the Data Management track.
 
 ## American University, Department of Economics
 ### ECON 200: Principles of Microeconomics
