@@ -15,7 +15,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Economics, __American University__, _January 2021_
+* Ph.D in Economics, __American University__, _December 2020_
 * M.S. in Economics, __American University__, _August 2014_
 * B.A. in Economics & Political Science, __Michigan State University__, _May 2010_
 
