@@ -37,7 +37,7 @@ This course is available in both Python and R, and requires either having taken 
 __Quarters taught:__ _Autumn 2019-2023 (Python), Autumn 2022 (R), Winter 2021 (R)_  
 
 ### PPHA 30546: Machine Learning (Python) 
-The objective of this course is to train students to be insightful users of modern machine learning methods. The class covers regularization methods for regression and classification, as well as large-scale approaches to inference and testing. In order to have greater flexibility when analyzing datasets, both frequentist and Bayesian methods are investigated.
+The objective of this course is to train students to be insightful users of modern machine learning methods. The class covers regularization methods for regression and classification, as well as large-scale approaches to inference and testing. In order to have greater flexibility when analyzing datasets, both frequentist and Bayesian methods are investigated.  
 __Next taught:__ _Winter 2025_
 
 ### PPHA 52000: Individual Reading and Research
