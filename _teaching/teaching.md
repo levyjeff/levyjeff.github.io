@@ -23,7 +23,7 @@ The first course in the Harris School Certificate in Data Analytics sequence, PP
     
 This course is required in order to take PPHA 30538 in the autumn, and is also available at Harris in R (PPHA 30535).  
 __Quarters taught:__ _Spring 2019-2024, Summer 2020_  
-__Next taught:__ _Currently_
+__Next taught:__ _Spring 2025_
  
 ### PPHA 30538/30536: Data and Programming for Public Policy II (Python/R)
 This course will build directly on the material covered in PPHA 30537 (or 30535 in R).  We will assume a grasp of the Python (R) skills from the previous class at the start, so that we can focus on practical applications to research.  Whereas the goal of the first class was to introduce Python (R) as a tool for data analysis, and to prepare students for internship-level policy research positions, the goals of this course will be to:
@@ -35,8 +35,10 @@ This course will build directly on the material covered in PPHA 30537 (or 30535 
     
 This course is available in both Python and R, and requires either having taken the first course in the correct language, or instructor approval.  
 __Quarters taught:__ _Autumn 2019-2023 (Python), Autumn 2022 (R), Winter 2021 (R)_  
-__Next taught:__ _Autumn 2024 (Python)_
 
+### PPHA 30546: Machine Learning (Python) 
+The objective of this course is to train students to be insightful users of modern machine learning methods. The class covers regularization methods for regression and classification, as well as large-scale approaches to inference and testing. In order to have greater flexibility when analyzing datasets, both frequentist and Bayesian methods are investigated.
+__Next taught:__ _Winter 2025_
 
 ### PPHA 52000: Individual Reading and Research
 Exceptional students from PPHA 30538 and 30536 who have a well-thought-out research idea that they wish to develop further before graduation may request this independent study course.  The course is tailored to each individual, and will be largely self-driven with regular meetings, similar to the way work on a PhD dissertation would proceed.  
