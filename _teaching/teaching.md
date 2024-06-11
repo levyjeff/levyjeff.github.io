@@ -56,7 +56,14 @@ This course is intended for students in the MSCAPP program, and will therefore i
 __Quarters taught:__ _Spring 2019-2020_
 
 ## University of Chicago, Harris School of Public Policy, Graduate Development Program
-In the autumn of 2023 I was part of a Harris School program working with the [Decision Support Center](/files/DSC_Profile.pdf), a research center within the government of Saudi Arabia.  The program trains top graduates from Saudi universities in rigorous policy understanding and analysis in preparation for entering public sector work.  I developed and remotely taught one section on MATLAB in October, then traveled to Riyadh for two weeks in December to oversee the capstone projects and presentations for students in the Data Management track.
+In the autumn of 2023 I was part of a Harris School program working with the [Decision Support Center](/files/DSC_Profile.pdf), a research center within the government of Saudi Arabia.  The program trains top graduates from Saudi universities in rigorous policy understanding and analysis in preparation for entering public sector work.  I developed and remotely taught one section on MATLAB in October, then traveled to Riyadh for two weeks in December to oversee the capstone projects and presentations for students in the Data Management track.  
+
+Returning in autumn 2024!
+
+## University of Chicago, Harris School of Public Policy, Data and Policy Summer Scholar Program
+Data is everywhere and analytical skills are in high demand by public and private institutions around the world.  Over seven weeks, students in this non-degree program gain the skills to retrieve, analyze, and present data through a public policy lens.  Learn to use a scientific approach to address today's social issues and create a measurable impact on society.  
+
+Summer 2024.  Learn more at the [summer scholars program](https://info.harris.uchicago.edu/summer-scholar-program).
 
 ## American University, Department of Economics
 ### ECON 200: Principles of Microeconomics
