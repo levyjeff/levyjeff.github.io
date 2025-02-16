@@ -37,7 +37,7 @@ This course will build directly on the material covered in PPHA 30537 (or 30535 
   - Broaden into new skills that require a higher level of Python (R) proficiency 
   - Prepare for the post-graduation job market
     
-This course is currently only available in Python, and requires either having taken the first course, or instructor approval.  In the past the course sequence was also offered in R.
+This course is currently only available in Python, and requires either having taken the first course, or instructor approval.  In the past the course sequence was also offered in R.  
 __Quarters taught:__ _Autumn 2019-2023 (Python), Autumn 2022 (R), Winter 2021 (R)_  
 
 ### PPHA 52000: Individual Reading and Research
