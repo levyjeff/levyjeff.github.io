@@ -9,9 +9,10 @@ redirect_from:
   - /news.html
   - /news/
 ---
+* **2025 Jan 06** Excited to teach Machine Learning for the first time.  Scikit Learn here we come!
+* **2024 Dec 20** Now wrapping up my third trip to teach public policy and data analysis to outstanding groups of students in Saudi Arabia!
 * **2023 Dec 14** My first trip to Saudi Arabia, and what an outstanding group of students to work with it was!  Thank you to [Harris and DSC](/teaching/#university-of-chicago-harris-school-of-public-policy-graduate-development-program) for the opportunity.
 * **2023 Nov 30** Wrapping up another quarter of data and programming in Python!  Looking forward to reviewing all the final projects.
-* **2023 Sep 26** Looking forward to the start of a new quarter at Harris teaching DAP2 in Python!
 * **2023 Sep 21** My co-author Xuguang Simon Sheng presented our [paper](/research/research-8/) at the 5th Biennial Conference in Padua, Italy.
 * **2023 Sep 08** We presented our new paper on the [causal effects of economic uncertainty](/research/research-8/) at the SITE 2023 conference. It was great to visit Stanford and hear the latest on uncertainty research!
 
