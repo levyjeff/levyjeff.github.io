@@ -10,6 +10,10 @@ date: 2023-09-26
 I am passionate about teaching good data and programming skills to researchers.  Many programs in the social sciences teach multiple semesters of statistcs or econometrics while paying scant attention to dealing with data in a rigorous way, despite the fact that successful research requires both.  This has become my niche at the Harris School, where I designed and regularly teach three of the core courses in the [Certificate in Data Analytics](https://harris.uchicago.edu/academics/design-your-path/certificates/certificate-data-analytics) program for MPP students.
 
 ## University of Chicago, Harris School of Public Policy
+### PPHA 30546: Machine Learning (Python) 
+The objective of this course is to train students to be insightful users of modern machine learning methods. The class covers regularization methods for regression and classification, as well as large-scale approaches to inference and testing. In order to have greater flexibility when analyzing datasets, both frequentist and Bayesian methods are investigated.  
+__Quarters taught:__ _Winter 2025_
+
 ### PPHA 30537: Data and Programming for Public Policy I (Python)
 The first course in the Harris School Certificate in Data Analytics sequence, PPHA 30537 is intended for students with experience using "legacy" research platforms (e.g. Stata) but no background in rigorous coding.  The student taking this course will develop in three technical and three non-technical areas:
 
@@ -36,10 +40,6 @@ This course will build directly on the material covered in PPHA 30537 (or 30535 
 This course is available in both Python and R, and requires either having taken the first course in the correct language, or instructor approval.  
 __Quarters taught:__ _Autumn 2019-2023 (Python), Autumn 2022 (R), Winter 2021 (R)_  
 
-### PPHA 30546: Machine Learning (Python) 
-The objective of this course is to train students to be insightful users of modern machine learning methods. The class covers regularization methods for regression and classification, as well as large-scale approaches to inference and testing. In order to have greater flexibility when analyzing datasets, both frequentist and Bayesian methods are investigated.  
-__Next taught:__ _Winter 2025_
-
 ### PPHA 52000: Individual Reading and Research
 Exceptional students from PPHA 30538 and 30536 who have a well-thought-out research idea that they wish to develop further before graduation may request this independent study course.  The course is tailored to each individual, and will be largely self-driven with regular meetings, similar to the way work on a PhD dissertation would proceed.  
 __Quarters taught:__ _Autumn 2023, Spring 2023, Spring 2021_
@@ -56,9 +56,7 @@ This course is intended for students in the MSCAPP program, and will therefore i
 __Quarters taught:__ _Spring 2019-2020_
 
 ## University of Chicago, Harris School of Public Policy, Graduate Development Program
-In the autumn of 2023 I was part of a Harris School program working with the [Decision Support Center](/files/DSC_Profile.pdf), a research center within the government of Saudi Arabia.  The program trains top graduates from Saudi universities in rigorous policy understanding and analysis in preparation for entering public sector work.  I developed and remotely taught one section on MATLAB in October, then traveled to Riyadh for two weeks in December to oversee the capstone projects and presentations for students in the Data Management track.  
-
-Returning in autumn 2024!
+In both 2023 and 2024 I was part of a Harris School program working with the [Decision Support Center](/files/DSC_Profile.pdf), a research center within the government of Saudi Arabia.  The program trains top graduates from Saudi universities in rigorous policy understanding and analysis in preparation for entering public sector work.  I have spent a total of 7 weeks in Riyadh, teaching research methods in Python and R, and basic usage of Excel, PowerBI, and MATLAB.
 
 ## University of Chicago, Harris School of Public Policy, Data and Policy Summer Scholar Program
 Data is everywhere and analytical skills are in high demand by public and private institutions around the world.  Over seven weeks, students in this non-degree program gain the skills to retrieve, analyze, and present data through a public policy lens.  Learn to use a scientific approach to address today's social issues and create a measurable impact on society.  
