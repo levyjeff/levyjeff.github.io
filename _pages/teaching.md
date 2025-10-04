@@ -81,17 +81,3 @@ _Taught summer 2024_
 Standard introduction to microeconomics for early undergraduate students.
 
 _Taught autumn 2016_
-
-### Teaching Assistant
-  - Econ 672 (2016) International Economics: Finance
-  - Econ 450 (2016) Growing Artificial Societies
-  - Econ 332 (2015) Money, Banking and Finance
-  - Econ 400 (2015) Introductory Microeconomics with Calculus
-  - Econ 450 (2015) Growing Artificial Societies
-  - Econ 632 (2015) Finance, Stability and Growth
-  - Econ 346 (2015) Competition, Regulation and Business Strategy
-  - Econ 100 (2014) Macroeconomics
-  - Econ 200 (2014) Microeconomics
-  - Econ 100 (2013) Macroeconomics
-  - Econ 200 (2013) Microeconomics
-  - Econ 200 (2012) Microeconomics
