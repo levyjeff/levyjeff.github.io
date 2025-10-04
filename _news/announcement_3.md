@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Welcome to Data and Programming for the Harris 1st-year MPP students!  Time to start your Python journey.
+{{ "uiuc" | emoji }} Welcome to Data and Programming for the Harris 1st-year MPP students!  Time to start your Python journey.
