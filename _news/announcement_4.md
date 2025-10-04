@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Now wrapping up my third trip to teach public policy and data analysis to outstanding groups of students in Saudi Arabia!
+:airplane: Now wrapping up my third trip to teach public policy and data analysis to outstanding groups of students in Saudi Arabia!
