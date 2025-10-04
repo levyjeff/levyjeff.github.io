@@ -77,16 +77,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-thanks-to-everyone-at-the-center-for-social-and-behavioral-science-at-the-university-of-illinois-for-hosting-me-to-run-a-workshop-on-using-ml-in-social-science-i-enjoyed-meeting-all-of-the-students-and-faculty",
           title: 'Thanks to everyone at the Center for Social and Behavioral Science at the...',
+          description: "",
+          section: "News",},{id: "news-the-start-of-another-quarter-of-machine-learning-for-public-policy-at-harris-looking-forward-to-seeing-all-of-the-second-year-mpps-again",
+          title: 'The start of another quarter of Machine Learning for Public Policy at Harris...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
