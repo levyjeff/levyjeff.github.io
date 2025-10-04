@@ -77,8 +77,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-now-wrapping-up-my-third-trip-to-teach-public-policy-and-data-analysis-to-outstanding-groups-of-students-in-saudi-arabia",
-          title: 'Now wrapping up my third trip to teach public policy and data analysis...',
+            },},{id: "news-airplane-now-wrapping-up-my-third-trip-to-teach-public-policy-and-data-analysis-to-outstanding-groups-of-students-in-saudi-arabia",
+          title: ':airplane: Now wrapping up my third trip to teach public policy and data...',
           description: "",
           section: "News",},{id: "news-welcome-to-data-and-programming-for-the-harris-1st-year-mpp-students-time-to-start-your-python-journey",
           title: 'Welcome to Data and Programming for the Harris 1st-year MPP students! Time to...',
