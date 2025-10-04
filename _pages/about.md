@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Chicago, Harris School of Public Policy</a>.
+subtitle: <a href='https://harris.uchicago.edu/directory/jeff-levy'>University of Chicago, Harris School of Public Policy</a>
 
 profile:
   align: right
