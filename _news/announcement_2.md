@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-The start of another quarter of Machine Learning for Public Policy at Harris - looking forward to seeing all of the second year MPPs again.
+{{ "uiuc" | emoji }} The start of another quarter of Machine Learning for Public Policy at Harris - looking forward to seeing all of the second year MPPs again.
