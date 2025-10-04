@@ -77,8 +77,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-welcome-to-data-and-programming-for-the-harris-1st-year-mpp-students-time-to-start-your-python-journey",
+          title: 'Welcome to Data and Programming for the Harris 1st-year MPP students! Time to...',
           description: "",
           section: "News",},{id: "news-thanks-to-everyone-at-the-center-for-social-and-behavioral-science-at-the-university-of-illinois-for-hosting-me-to-run-a-workshop-on-using-ml-in-social-science-i-enjoyed-meeting-all-of-the-students-and-faculty",
           title: 'Thanks to everyone at the Center for Social and Behavioral Science at the...',
