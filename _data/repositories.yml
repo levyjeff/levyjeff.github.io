@@ -3,6 +3,6 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - /levyjeff/hamilton_filter
-  - /levyjeff/anderson_rubin_ci
-  - /levyjeff/simple_abm
+  - levyjeff/hamilton_filter
+  - levyjeff/anderson_rubin_ci
+  - levyjeff/simple_abm
