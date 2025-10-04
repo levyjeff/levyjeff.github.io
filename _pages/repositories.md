@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: GitHub
+title: github
 description: Selected public repositories.
 nav: true
 nav_order: 4
