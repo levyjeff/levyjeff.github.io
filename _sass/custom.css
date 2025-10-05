@@ -150,3 +150,22 @@
 .expand-toggle:checked + .expand-label + .expand-content {
   display: block;
 }
+
+.membership-list {
+  list-style-type: none;
+  padding-left: 0;
+  margin: 0.5rem 0 0;
+
+  li {
+    margin-bottom: 0.5rem;
+  }
+
+  strong {
+    color: var(--text-color);
+  }
+
+  .text-muted {
+    color: var(--muted-text-color);
+    font-size: 0.9em;
+  }
+}

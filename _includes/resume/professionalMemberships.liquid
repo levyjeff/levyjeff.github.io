@@ -1,0 +1,14 @@
+<ul class="membership-list">
+  {% for m in data[1] %}
+    <li>
+      <strong>{{ m.organization }}</strong>
+      {% if m.position %} — {{ m.position }}{% endif %}
+      {% if m.startDate %}
+        <span class="text-muted">
+          ({{ m.startDate | date: "%Y" }}{% if m.endDate %}–{{ m.endDate | date: "%Y" }}{% else %}–present{% endif %})
+        </span>
+      {% endif %}
+      {% if m.summary %}<br><small>{{ m.summary }}</small>{% endif %}
+    </li>
+  {% endfor %}
+</ul>

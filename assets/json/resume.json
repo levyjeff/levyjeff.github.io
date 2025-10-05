@@ -63,6 +63,20 @@
       "endDate": "2010-05-01"
     }
   ],
+  "professionalMemberships": [
+    {
+      "organization": "American Economic Association",
+      "position": "Member",
+      "startDate": "2021-01-01",
+      "summary": "Active member participating in annual meetings and elections."
+    },
+    {
+      "organization": "Python Software Foundation",
+      "position": "Member",
+      "startDate": "2018-01-01",
+      "summary": "Voting member for the organization that maintains and grows the Python programming language."
+    }
+  ],
   "skills": [
     {
       "name": "Programming",
