@@ -1,8 +1,8 @@
 ---
 layout: teaching
 title: Machine Learning for Public Policy
-school: {{ "uchicago" | emoji }} University of Chicago
-school_logo: 
+school: University of Chicago
+school_logo: /assets/img/emojis/uchicao.png
 teach_order: 1
 current: true
 semesters: "Winter 2025, Autumn 2025"
