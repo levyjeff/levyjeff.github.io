@@ -16,12 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/teaching/";
           },
         },{id: "nav-github",
           title: "github",
@@ -36,13 +36,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
