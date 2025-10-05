@@ -42,7 +42,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-airplane-now-wrapping-up-my-third-trip-to-teach-public-policy-and-data-analysis-to-outstanding-groups-of-students-in-saudi-arabia",
+            },},{id: "news-we-presented-our-new-paper-on-the-causal-effects-of-economic-uncertainty-at-the-site-2023-conference-it-was-great-to-visit-stanford-and-hear-the-latest-on-uncertainty-research",
+          title: 'We presented our new paper on the causal effects of economic uncertainty at...',
+          description: "",
+          section: "News",},{id: "news-airplane-now-wrapping-up-my-third-trip-to-teach-public-policy-and-data-analysis-to-outstanding-groups-of-students-in-saudi-arabia",
           title: ':airplane: Now wrapping up my third trip to teach public policy and data...',
           description: "",
           section: "News",},{id: "news-welcome-to-data-and-programming-for-the-harris-1st-year-mpp-students-time-to-start-your-python-journey",
