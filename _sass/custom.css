@@ -67,3 +67,59 @@
 .teaching-card.past {
   opacity: 0.85;
 }
+
+.teaching-detail {
+  max-width: 800px;
+  margin: 0 auto;
+  padding-top: 1.5rem;
+}
+
+.teaching-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.6rem;
+}
+
+.school-logo-large {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1px solid var(--border-color, #ccc);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.teaching-meta {
+  font-size: 0.95rem;
+  color: var(--text-muted, #666);
+  margin-bottom: 1rem;
+}
+
+.short-desc {
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--body-color);
+  margin-bottom: 1rem;
+}
+
+.long-desc {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
+
+.syllabus-link a {
+  display: inline-block;
+  padding: 0.3rem 0.6rem;
+  border-radius: 6px;
+  background-color: var(--link-color, #007acc);
+  color: #fff !important;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.syllabus-link a:hover {
+  opacity: 0.9;
+}

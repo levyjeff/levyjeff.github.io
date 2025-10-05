@@ -8,6 +8,6 @@ current: false
 semesters: "Autumn 2016"
 short_description: Introductory undergradate economics course.
 syllabus: 
+long_description: A course covering standard beginner microeconomics, using Mankiw's Prinicples textbook.
 ---
 
-A course covering standard beginner microeconomics, using Mankiw's Prinicples textbook.
