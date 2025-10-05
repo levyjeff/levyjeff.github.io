@@ -6,48 +6,52 @@ nav: true
 nav_order: 3
 ---
 
-# Currently Teaching
+<section class="teaching-section">
+  <h1>Currently Teaching</h1>
 
-<div class="teaching-list">
-  {% assign current_classes = site.teaching | where: "current", true | sort: "teach_order" %}
-  {% for t in current_classes %}
-    <div class="teaching-entry">
-      <h2 class="teaching-title">
-        <a href="{{ t.url | relative_url }}">{{ t.title }}</a>
+  {% assign current_courses = site.teaching | where: "current", true | sort: "teach_order" %}
+  {% for t in current_courses %}
+    <article class="teaching-card">
+      <header class="teaching-header">
+        <a class="course-link" href="{{ t.url | relative_url }}">{{ t.title }}</a>
         {% if t.school_logo %}
           <img src="{{ t.school_logo | relative_url }}" alt="{{ t.school }}" class="school-logo">
         {% endif %}
-      </h2>
+      </header>
+
       <p class="teaching-meta">
-        <strong>{{ t.school }}</strong> — {{ t.semesters }}
+        <span class="school">{{ t.school }}</span>
+        <span class="sep">•</span>
+        <span class="semesters">{{ t.semesters }}</span>
       </p>
+
       {% if t.short_description %}
         <p class="teaching-desc">{{ t.short_description }}</p>
       {% endif %}
-    </div>
+    </article>
   {% endfor %}
-</div>
 
----
+  <h1>Past Courses</h1>
 
-# Past Courses
-
-<div class="teaching-list past">
-  {% assign past_classes = site.teaching | where: "current", false | sort: "teach_order" %}
-  {% for t in past_classes %}
-    <div class="teaching-entry">
-      <h2 class="teaching-title">
-        <a href="{{ t.url | relative_url }}">{{ t.title }}</a>
+  {% assign past_courses = site.teaching | where: "current", false | sort: "teach_order" %}
+  {% for t in past_courses %}
+    <article class="teaching-card past">
+      <header class="teaching-header">
+        <a class="course-link" href="{{ t.url | relative_url }}">{{ t.title }}</a>
         {% if t.school_logo %}
           <img src="{{ t.school_logo | relative_url }}" alt="{{ t.school }}" class="school-logo">
         {% endif %}
-      </h2>
+      </header>
+
       <p class="teaching-meta">
-        <strong>{{ t.school }}</strong> — {{ t.semesters }}
+        <span class="school">{{ t.school }}</span>
+        <span class="sep">•</span>
+        <span class="semesters">{{ t.semesters }}</span>
       </p>
+
       {% if t.short_description %}
         <p class="teaching-desc">{{ t.short_description }}</p>
       {% endif %}
-    </div>
+    </article>
   {% endfor %}
-</div>
+</section>
