@@ -109,8 +109,8 @@ ninja.data = [{
           description: "",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/dap2/";
-            },},{id: "teaching-",
-          title: '',
+            },},{id: "teaching-machine-learning-for-public-policy",
+          title: 'Machine Learning for Public Policy',
           description: "",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/ml/";
