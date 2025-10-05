@@ -119,8 +119,8 @@ ninja.data = [{
           description: "",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/dap1/";
-            },},{id: "teaching-data-and-programming-for-public-policy-2",
-          title: 'Data and Programming for Public Policy 2',
+            },},{id: "teaching-data-and-programming-for-public-policy-2-python-r",
+          title: 'Data and Programming for Public Policy 2 (Python\R)',
           description: "",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/dap2/";
