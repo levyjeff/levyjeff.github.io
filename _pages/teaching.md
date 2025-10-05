@@ -7,7 +7,7 @@ nav_order: 3
 ---
 
 <section class="teaching-section">
-  <h1>Currently Teaching</h1>
+  <h1>Currently Courses</h1>
 
   {% assign current_courses = site.teaching | where: "current", true | sort: "teach_order" %}
   {% for t in current_courses %}
@@ -15,7 +15,7 @@ nav_order: 3
       <header class="teaching-header">
         <a class="course-link" href="{{ t.url | relative_url }}">{{ t.title }}</a>
         {% if t.school_logo %}
-          <img src="{{ t.school_logo | relative_url }}" alt="{{ t.school }}" class="school-logo">
+          <img src="{{ t.school_logo | relative_url }}" class="school-logo">
         {% endif %}
       </header>
 
@@ -39,7 +39,7 @@ nav_order: 3
       <header class="teaching-header">
         <a class="course-link" href="{{ t.url | relative_url }}">{{ t.title }}</a>
         {% if t.school_logo %}
-          <img src="{{ t.school_logo | relative_url }}" alt="{{ t.school }}" class="school-logo">
+          <img src="{{ t.school_logo | relative_url }}" class="school-logo">
         {% endif %}
       </header>
 
