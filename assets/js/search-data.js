@@ -99,21 +99,51 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "teaching-principles-of-microconomics-1",
+          title: 'Principles of Microconomics 1',
+          description: "",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/auecon/";
+            },},{id: "teaching-math-and-coding-camp",
+          title: 'Math and Coding Camp',
+          description: "",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/codecamp/";
+            },},{id: "teaching-principles-of-economics-and-public-policy-2",
+          title: 'Principles of Economics and Public Policy 2',
+          description: "",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/compecon/";
             },},{id: "teaching-data-and-programming-for-public-policy-1-python",
           title: 'Data and Programming for Public Policy 1 (Python)',
           description: "",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/dap1/";
-            },},{id: "teaching-data-and-programming-for-public-policy-2-python",
-          title: 'Data and Programming for Public Policy 2 (Python)',
+            },},{id: "teaching-data-and-programming-for-public-policy-2",
+          title: 'Data and Programming for Public Policy 2',
           description: "",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/dap2/";
+            },},{id: "teaching-data-and-policy-summer-scholar-program",
+          title: 'Data and Policy Summer Scholar Program',
+          description: "",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/dpss/";
+            },},{id: "teaching-individual-reading-and-research",
+          title: 'Individual Reading and Research',
+          description: "",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/individual/";
             },},{id: "teaching-machine-learning-for-public-policy",
           title: 'Machine Learning for Public Policy',
           description: "",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/ml/";
+            },},{id: "teaching-graduate-development-program",
+          title: 'Graduate Development Program',
+          description: "",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/saudi/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
