@@ -1,11 +1,11 @@
 ---
 layout: teaching
-title: Data and Programming for Public Policy 2 (Python)
+title: Data and Programming for Public Policy 2
 school: University of Chicago
 school_logo: /assets/img/uchicago_small.png
 teach_order: 3
 current: false
-semesters: "Spring 2019-2025, Summer 2020"
+semesters: "Autumn 2019-2023, Winter 2021"
 short_description: Advanced data and programming skills for second-year MPP students.
 syllabus: 
 ---
@@ -17,4 +17,4 @@ This course will build directly on the material covered in PPHA 30537 (or 30535 
   - Broaden into new skills that require a higher level of Python (R) proficiency 
   - Prepare for the post-graduation job market
     
-Note that this course is currently only available in Python, and requires either having taken the first course, or instructor approval.  In the past the course sequence was also offered in R.  
+Note that this course is currently only available in Python, and requires either having taken the first course, or instructor approval.  I taught this course in Python in Autumn 2019-2023, and in R for Autumn 2022 and Winter 2021.

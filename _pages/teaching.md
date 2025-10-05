@@ -7,7 +7,7 @@ nav_order: 3
 ---
 
 <section class="teaching-section">
-  <h1>Currently Courses</h1>
+  <h1>Current Courses</h1>
 
   {% assign current_courses = site.teaching | where: "current", true | sort: "teach_order" %}
   {% for t in current_courses %}
