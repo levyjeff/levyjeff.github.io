@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
+          title: "Teaching",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -101,17 +101,17 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "teaching-data-and-programming-for-public-policy-1-python",
           title: 'Data and Programming for Public Policy 1 (Python)',
-          description: "Research methods class teaching programming and data analysis in Python.",
+          description: "",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/dap1/";
             },},{id: "teaching-data-and-programming-for-public-policy-2-python",
           title: 'Data and Programming for Public Policy 2 (Python)',
-          description: "Advanced data and programming skills for second-year MPP students.",
+          description: "",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/dap2/";
             },},{id: "teaching-machine-learning-for-public-policy",
           title: 'Machine Learning for Public Policy',
-          description: "Introductory ML for Master&#39;s students in Public Policy.",
+          description: "",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/ml/";
             },},{
