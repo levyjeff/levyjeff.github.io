@@ -66,12 +66,14 @@
   "professionalMemberships": [
     {
       "organization": "American Economic Association",
+      "url": "https://www.aeaweb.org/",
       "position": "Member",
       "startDate": "2021-01-01",
       "summary": "Active member participating in annual meetings and elections."
     },
     {
       "organization": "Python Software Foundation",
+      "url": "https://www.python.org/psf-landing/",
       "position": "Member",
       "startDate": "2018-01-01",
       "summary": "Voting member for the organization that maintains and grows the Python programming language."
