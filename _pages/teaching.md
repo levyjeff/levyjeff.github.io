@@ -1,37 +1,41 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: 
+title: Teaching
 nav: true
 nav_order: 3
 ---
 
-# Currently teaching
+# Currently Teaching
 
-<div class="teaching current">
-  {% assign current_classes = site.teaching | where: "current", true | sort: "teach_order" %}
-  {% for t in current_classes %}
-    <div class="class-item">
-      <h3><a href="{{ t.url | relative_url }}">{{ t.title }}</a></h3>
-      {% if t.semester %}<p><strong>{{ t.semester }}</strong></p>{% endif %}
-      {% if t.description %}<p>{{ t.description }}</p>{% endif %}
-    </div>
-  {% endfor %}
-  {% if current_classes == empty %}
-    <p><em>No current classes.</em></p>
-  {% endif %}
-</div>
+{% assign current_classes = site.teaching | where: "current", true | sort: "teach_order" %}
+{% for t in current_classes %}
+  <div class="teaching-entry">
+    <h2 class="course-title">
+      <a href="{{ t.url | relative_url }}">{{ t.title }}</a>
+      {% if t.school_logo %}
+        <img src="{{ t.school_logo | relative_url }}" alt="{{ t.school }}" class="school-logo">
+      {% endif %}
+    </h2>
+    <p class="semester"><strong>{{ t.school }}</strong> — {{ t.semesters }}</p>
+    <p class="short-desc">{{ t.short_description }}</p>
+  </div>
+{% endfor %}
 
-# Past teaching
+---
 
-<div class="teaching past">
-  {% assign past_classes = site.teaching | where: "current", false | sort: "teach_order" %}
-  {% for t in past_classes %}
-    <div class="class-item">
-      <h3><a href="{{ t.url | relative_url }}">{{ t.title }}</a></h3>
-      {% if t.semester %}<p><strong>{{ t.semester }}</strong></p>{% endif %}
-      {% if t.description %}<p>{{ t.description }}</p>{% endif %}
-    </div>
-  {% endfor %}
-</div>
+# Past Courses
+
+{% assign past_classes = site.teaching | where: "current", false | sort: "teach_order" %}
+{% for t in past_classes %}
+  <div class="teaching-entry">
+    <h2 class="course-title">
+      <a href="{{ t.url | relative_url }}">{{ t.title }}</a>
+      {% if t.school_logo %}
+        <img src="{{ t.school_logo | relative_url }}" alt="{{ t.school }}" class="school-logo">
+      {% endif %}
+    </h2>
+    <p class="semester"><strong>{{ t.school }}</strong> — {{ t.semesters }}</p>
+    <p class="short-desc">{{ t.short_description }}</p>
+  </div>
+{% endfor %}

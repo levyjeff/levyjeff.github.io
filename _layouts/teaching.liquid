@@ -1,0 +1,25 @@
+---
+layout: page
+---
+
+<div class="teaching-page">
+  <h1>{{ page.title }}</h1>
+
+  {% if page.school_logo %}
+    <img src="{{ page.school_logo | relative_url }}" alt="{{ page.school }}" class="school-logo">
+  {% endif %}
+
+  {% if page.school %}
+    <p class="school"><strong>{{ page.school }}</strong></p>
+  {% endif %}
+
+  {% if page.semesters %}
+    <p class="semesters"><em>{{ page.semesters }}</em></p>
+  {% endif %}
+
+  {% if page.syllabus %}
+    <p><a href="{{ page.syllabus | relative_url }}" class="syllabus-link" target="_blank">
+      📄 View syllabus
+    </a></p>
+  {% endif %}
+</div>
