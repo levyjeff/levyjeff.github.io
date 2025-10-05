@@ -1,6 +1,7 @@
 ---
 layout: teaching
 title: Principles of Economics and Public Policy 2
+hide_title: true
 school: University of Chicago
 school_logo: /assets/img/uchicago_small.png
 teach_order: 6

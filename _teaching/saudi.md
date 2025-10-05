@@ -1,6 +1,7 @@
 ---
 layout: teaching
 title: Graduate Development Program
+hide_title: true
 school: University of Chicago
 school_logo: /assets/img/dsc_small.png
 teach_order: 7

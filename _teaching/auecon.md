@@ -1,6 +1,7 @@
 ---
 layout: teaching
 title: Principles of Microconomics 1
+hide_title: true
 school: American University
 school_logo: /assets/img/au_small.png
 teach_order: 9

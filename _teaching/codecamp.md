@@ -1,6 +1,7 @@
 ---
 layout: teaching
 title: Math and Coding Camp
+hide_title: true
 school: University of Chicago
 school_logo: /assets/img/uchicago_small.png
 teach_order: 4
