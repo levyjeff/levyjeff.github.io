@@ -2,7 +2,7 @@
 layout: teaching
 title: Data and Programming for Public Policy 1 (Python)
 school: University of Chicago
-school_logo: /assets/img/emojis/uchicao.png
+school_logo: /assets/img/uchicao_small.png
 teach_order: 2
 current: true
 semesters: "Spring 2019-2025, Summer 2020"
