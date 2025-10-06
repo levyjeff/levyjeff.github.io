@@ -6,7 +6,7 @@ school: University of Chicago
 school_logo: /assets/img/uchicago_small.png
 teach_order: 6
 current: false
-semesters: "Spring 2019, 2020"
+semesters: "Spring 2019, 2020 (4x)"
 short_description: Master's level economics course focusing on market structures beyond perfect competition.
 syllabus: 
 long_description: |
