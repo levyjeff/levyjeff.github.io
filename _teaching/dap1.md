@@ -6,7 +6,7 @@ school: University of Chicago
 school_logo: /assets/img/uchicago_small.png
 teach_order: 2
 current: true
-semesters: "Spring 2019-2025, Summer 2020"
+semesters: "Spring 2019-2025, Summer 2020 (17x)"
 short_description: Research methods class teaching programming and data analysis in Python.
 syllabus: 
 long_description: |
