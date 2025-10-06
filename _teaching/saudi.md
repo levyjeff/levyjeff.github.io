@@ -6,7 +6,7 @@ school: University of Chicago
 school_logo: /assets/img/dsc_small.png
 teach_order: 7
 current: false
-semesters: "Autumn 2023, 2024"
+semesters: "Autumn 2023, 2024 (4x)"
 short_description: Professional education in data analytics and programming in Riyadh, Saudi Arabia.
 syllabus: 
 long_description: |
