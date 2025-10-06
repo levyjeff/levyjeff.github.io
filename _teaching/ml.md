@@ -6,7 +6,7 @@ school: University of Chicago
 school_logo: /assets/img/uchicago_small.png
 teach_order: 1
 current: true
-semesters: "Winter 2025, Autumn 2025"
+semesters: "Winter 2025, Autumn 2025 (2x)"
 short_description: Introductory ML for Master's students in Public Policy.
 syllabus: 
 long_description: |
