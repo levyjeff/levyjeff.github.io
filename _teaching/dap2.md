@@ -6,7 +6,7 @@ school: University of Chicago
 school_logo: /assets/img/uchicago_small.png
 teach_order: 3
 current: false
-semesters: "Autumn 2019-2023, Winter 2021"
+semesters: "Autumn 2019-2023, Winter 2021 (14x)"
 short_description: Advanced data and programming skills for second-year MPP students.
 syllabus: 
 long_description: |
