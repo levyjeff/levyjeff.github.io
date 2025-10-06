@@ -6,7 +6,7 @@ school: University of Chicago
 school_logo: /assets/img/uchicago_small.png
 teach_order: 4
 current: true
-semesters: "September 2024, 2025"
+semesters: "September 2024, 2025 (2x)"
 short_description: Three-week accelerated coding instruction for incoming MPP and MSCAPP students in R.
 syllabus: 
 long_description: |
