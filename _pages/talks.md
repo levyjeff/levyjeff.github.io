@@ -2,14 +2,13 @@
 layout: page
 permalink: /talks/
 title: talks & workshops
-description: Invited talks, workshops, and conference presentations
 nav: true
 nav_order: 4
 ---
 
 <section class="teaching-section">
 
-  {% assign categories = "Talks,Workshops,Panels" | split: "," %}
+  {% assign categories = "Workshops,Talks,Panels" | split: "," %}
 
   {% for cat in categories %}
     <h1>{{ cat }}</h1>
@@ -38,10 +37,6 @@ nav_order: 4
           {% if t.year %}
             <span class="sep">•</span>
             <span class="year">{{ t.year }}</span>
-          {% endif %}
-          {% if t.type %}
-            <span class="sep">•</span>
-            <span class="type">{{ t.type | capitalize }}</span>
           {% endif %}
         </p>
 
