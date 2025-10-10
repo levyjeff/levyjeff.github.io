@@ -13,7 +13,7 @@ Below are selected workshops, talks, and panels I’ve organized or presented at
 
 <div class="talks">
 
-{% assign categories = "Workshops,Conference Talks,Panels" | split: "," %}
+{% assign categories = "workshop,talk,panel" | split: "," %}
 
 {% for category in categories %}
   {% assign filtered_talks = site.data.talks | where: "type", category | sort: "year" | reverse %}
