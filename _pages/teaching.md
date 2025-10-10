@@ -7,9 +7,9 @@ nav_order: 3
 ---
 
 <section class="teaching-statement">
-  <input type="checkbox" id="expand-statement" class="expand-toggle">
-  <label for="expand-statement" class="expand-label">Read my teaching statement</label>
-  <div class="expand-content">
+  <details class="expand-section">
+    <summary>Teaching statement</summary>
+    <div class="expand-content">
 <p>
   My economics career began as a researcher at think tanks in Washington DC, where I had the opportunity to join a wide variety of projects. In that time I identified three related issues in the field that I use as the foundation of the data and programming courses I teach:
 </p>
@@ -36,7 +36,8 @@ nav_order: 3
 <p>
   That said, I believe there will always be some tension between LLMs and pedagogy. True learning happens in the struggle, and LLMs are incredibly powerful at helping students avoid that struggle. It is also incumbent upon us as faculty to structure our classes in a way that mitigates the worst of this, by for example assessing in-class work more heavily than take-home work. If we continue doing things as we did in the pre-LLM era, we will leave perverse incentives in place that both encourage poor LLM usage and discourage good LLM usage, by making students who would like to opt out of bad practices fall behind their peers who don't.
 </p>
-  </div>
+    </div>
+  </details>
 </section>
 
 
