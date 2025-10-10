@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-talks-amp-workshops",
+          title: "Talks &amp; Workshops",
+          description: "Invited talks, workshops, and conference presentations",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/talks/";
+          },
         },{id: "nav-github",
           title: "github",
           description: "Selected public repositories of mine.",
