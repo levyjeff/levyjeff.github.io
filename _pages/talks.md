@@ -7,33 +7,42 @@ nav: true
 nav_order: 4
 ---
 
-<div class="teaching">
+<section class="teaching-section">
+  <h1>Talks & Workshops</h1>
 
-{% assign categories = "Workshops,Talks,Panels" | split: "," %}
+  {% assign talks = site.data.talks | sort: "year" | reverse %}
+  {% for t in talks %}
+    <article class="teaching-card">
+      <header class="teaching-header">
+        {% if t.url %}
+          <a class="course-link" href="{{ t.url | relative_url }}">{{ t.title }}</a>
+        {% else %}
+          <span class="course-link">{{ t.title }}</span>
+        {% endif %}
+        {% if t.logo %}
+          <img src="{{ t.logo | relative_url }}" alt="{{ t.organization }} logo" class="school-logo">
+        {% endif %}
+      </header>
 
-{% for category in categories %}
-  {% assign filtered_talks = site.data.talks | where: "type", category | sort: "year" | reverse %}
-  {% if filtered_talks.size > 0 %}
-  <details class="talks-section">
-    <summary><h2 class="talks-heading">{{ category }}</h2></summary>
-    {% for t in filtered_talks %}
-      <div class="teaching-card">
-        <div class="teaching-header">
-          {% if t.logo %}
-            <img src="{{ t.logo | relative_url }}" alt="{{ t.organization }} logo" class="school-logo">
-          {% endif %}
-          <div class="teaching-info">
-            <h3 class="teaching-title">{{ t.title }}</h3>
-            <p class="teaching-meta">
-              {{ t.organization }}{% if t.location %}, {{ t.location }}{% endif %} — {{ t.year }}
-            </p>
-          </div>
-        </div>
-        <p class="teaching-description">{{ t.description }}</p>
-      </div>
-    {% endfor %}
-  </details>
-  {% endif %}
-{% endfor %}
+      <p class="teaching-meta">
+        <span class="school">{{ t.organization }}</span>
+        {% if t.location %}
+          <span class="sep">•</span>
+          <span class="location">{{ t.location }}</span>
+        {% endif %}
+        {% if t.year %}
+          <span class="sep">•</span>
+          <span class="year">{{ t.year }}</span>
+        {% endif %}
+        {% if t.type %}
+          <span class="sep">•</span>
+          <span class="type">{{ t.type | capitalize }}</span>
+        {% endif %}
+      </p>
 
-</div>
+      {% if t.description %}
+        <p class="teaching-desc">{{ t.description }}</p>
+      {% endif %}
+    </article>
+  {% endfor %}
+</section>
