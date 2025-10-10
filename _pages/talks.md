@@ -1,19 +1,15 @@
 ---
 layout: page
 permalink: /talks/
-title: Talks & Workshops
+title: talks & workshops
 description: Invited talks, workshops, and conference presentations
 nav: true
 nav_order: 4
 ---
 
-# Talks & Workshops
+<div class="teaching">
 
-Below are selected workshops, talks, and panels I’ve organized or presented at.
-
-<div class="talks">
-
-{% assign categories = "workshop,talk,panel" | split: "," %}
+{% assign categories = "Workshops,Talks,Panels" | split: "," %}
 
 {% for category in categories %}
   {% assign filtered_talks = site.data.talks | where: "type", category | sort: "year" | reverse %}
