@@ -1,0 +1,103 @@
+- title: Machine Learning for Social and Behavioral Science Workshop
+  organization: University of Illinois
+  location: Champaign, IL
+  year: 2025
+  logo: /assets/img/uiuc_small.png
+  type: Workshop
+  description: An all-day workshop for 50+ faculty and students introducing core machine learning concepts from the perspective of those trained in causal inference. Includes a hands-on exercise.
+
+- title: Code Sample Workshop: MATLAB
+  organization: University of Chicago
+  location: Chicago, IL
+  year: 2024
+  logo: /assets/img/uchicago_small.png
+  type: Workshop
+  description: Two-hour long workshop for Harris students that focuses on translating skills in Python and R into work in MATLAB. Participants leave the session with a viable code sample in MATLAB suitable to share with employers.
+
+- title: From New Graduate to Analyst - Making the Transition
+  organization: University of Chicago
+  location: Chicago, IL
+  year: 2021
+  logo: /assets/img/uchicago_small.png
+  type: Panel
+  description: Participants for this year came from the UChicago Crime Lab, Beneficial State Foundation, Federal Reserve Bank of Chicago, World Bank, Urban Institute, and Booz Allen Hamilton.
+
+- title: From New Graduate to Analyst - Making the Transition
+  organization: University of Chicago
+  location: Chicago, IL
+  year: 2022
+  logo: /assets/img/uchicago_small.png
+  type: Panel
+  description: Participants for this year came from the University of British Columbia, Center for the Economics of Human Development, Mathematica, Urban Institute, Westat Insight, and TrueRoll.
+
+- title: From New Graduate to Analyst - Making the Transition
+  organization: University of Chicago
+  location: Chicago, IL
+  year: 2023
+  logo: /assets/img/uchicago_small.png
+  type: Panel
+  description: Participants for this year came from the Center on American Progress, RTI International, Uber, Urban Institiute, Mathematica, and UChicago Crime Lab.
+
+- title: From New Graduate to Analyst - Making the Transition
+  organization: University of Chicago
+  location: Chicago, IL
+  year: 2024
+  logo: /assets/img/uchicago_small.png
+  type: Panel
+  description: Organized and hosted two-part panel discussion bringing current quantitative-focused students together with three recent Harris alums and three senior managers that hire graduates to discuss the transition. Participants came from the Cook County Asessor's Office, UChicago Medicine, Redfin, the Brookings Institution, University of Michigan Youth Policy Lab, and the Federal Reserve Bank of Chicago.
+
+- title: SITE 2023 - Causal Effects of Economic Uncertainty
+  organization: Stanford University
+  location: Stanford, CA
+  year: 2023
+  logo: /assets/img/stanford_small.png
+  type: Talk
+  description: Presenting our research to leaders in the field of macroeconomic uncertainty.
+
+- title: Introduction to Machine Learning for Economists
+  organization: University of Science and Technology of China
+  location: Remote
+  year: 2020
+  logo: /assets/img/ustc_small.png
+  type: Talk
+  description: Invited guest lecture for USTC Economics students on using machine learning tools in Python.
+
+- title: Spark for Social Science
+  organization: Urban Institute
+  location: Washington, DC
+  year: 2017
+  logo: /assets/img/urban_small.png
+  type: Talk
+  description: Presentation and tutorial on using the Apache Spark distributed computing system with big data for social science researchers.
+
+- title: Regional Variation in Economic Uncertainty
+  organization: Southern Economic Association Conference
+  location: Washington, DC
+  year: 2016
+  logo: /assets/img/sea_small.png
+  type: Talk
+  description: Presentation and discussion on early dissertation results, focused on news-based uncertainty at sub-national levels.
+
+- title: Python for Social Science
+  organization: Urban Institute
+  location: Washington, DC
+  year: 2016
+  logo: /assets/img/urban_small.png
+  type: Talk
+  description: Presentation to Urban researchers on how and why to use the Python programming language in their research.
+
+- title: GitHub for Social Science
+  organization: Urban Institute
+  location: Washington, DC
+  year: 2016
+  logo: /assets/img/urban_small.png
+  type: Talk
+  description: Presentation to Urban researchers on how and why to use the GitHub version control in their research.
+
+- title: Contract Enforcement and Group Formation - An Agent Based Model of the Maghribi Traders
+  organization: Johns Hopkins University
+  location: Baltimore, MD
+  year: 2014
+  logo: /assets/img/jhu_small.png
+  type: Talk
+  description: Presentation of an agent based model in Python based on the game theory work of Avner Greif.
