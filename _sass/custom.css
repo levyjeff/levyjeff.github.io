@@ -130,27 +130,6 @@
   line-height: 1.6;
 }
 
-.expand-toggle {
-  display: none;
-}
-
-.expand-label {
-  display: inline-block;
-  margin-bottom: 1rem;
-  font-weight: bold;
-  color: var(--link-color, #007acc);
-  cursor: pointer;
-}
-
-.expand-content {
-  display: none;
-  margin-top: 1rem;
-}
-
-.expand-toggle:checked + .expand-label + .expand-content {
-  display: block;
-}
-
 .membership-list {
   list-style-type: none;
   padding-left: 0;
