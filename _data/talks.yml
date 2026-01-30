@@ -1,12 +1,12 @@
-- title: Machine Learning for Social and Behavioral Science Workshop 2
+- title: Machine Learning for Social and Behavioral Science Workshop Pt 2
   organization: University of Illinois
   location: Champaign, IL
   year: 2026
   logo: /assets/img/uiuc_small.png
   type: Workshops
-  description: The first workshop was so successful, we've scheduled a second one to build on the topics coverd! Scheduled for February 27th 2026; more information pending.
+  description: Taking place February 27th, the second part of my ML workshop for the Center for Social and Behavioral Science will focus on tree-based methods, including the basic decision tree, more advanced applications like random forests and boosting, and will end with how these models are used in the recent economics literature.
 
-- title: Machine Learning for Social and Behavioral Science Workshop
+- title: Machine Learning for Social and Behavioral Science Workshop Pt 1
   organization: University of Illinois
   location: Champaign, IL
   year: 2025
