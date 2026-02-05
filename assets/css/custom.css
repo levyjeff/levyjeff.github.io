@@ -12,12 +12,8 @@
   position: absolute;
   inset: 0;
   opacity: 0;
-  animation: textCarouselFade 48s infinite;
+  animation: textCarouselFade 60s infinite;
   animation-fill-mode: both;
-}
-
-.text-carousel-slide:first-of-type {
-  opacity: 1;
 }
 
 .text-carousel-content {
