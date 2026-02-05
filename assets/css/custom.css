@@ -43,3 +43,16 @@
   100% { opacity: 0; }
 }
 
+.school-logo {
+  max-height: 40px;
+  max-width: 40px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+
+.teaching-header {
+  gap: 0.75rem;
+  align-items: baseline;
+}
+
