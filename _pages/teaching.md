@@ -10,13 +10,20 @@ nav_order: 3
   <div class="text-carousel" markdown="0">
     {% for item in site.data.teaching_carousel %}
       <div class="text-carousel-slide">
-        <span class="text-carousel-content">
-          {{ item.text }}
-        </span>
+        <div class="text-carousel-content">
+          <div class="carousel-title">
+            {{ item.title }}
+            <span class="carousel-term">{{ item.term }}</span>
+          </div>
+          <div class="carousel-quote">
+            “{{ item.quote }}”
+          </div>
+        </div>
       </div>
     {% endfor %}
   </div>
 </div>
+
 
 <section class="teaching-statement" style="display: none">
   <details class="expand-section">
