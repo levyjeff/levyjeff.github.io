@@ -13,6 +13,11 @@
   inset: 0;
   opacity: 0;
   animation: textCarouselFade 16s infinite;
+  animation-fill-mode: both;
+}
+
+.text-carousel-slide:first-of-type {
+  opacity: 1;
 }
 
 .text-carousel-content {
@@ -54,10 +59,10 @@
 
 
 @keyframes textCarouselFade {
-  0%   { opacity: 0; transform: translateY(0.3em); }
-  10%  { opacity: 1; transform: translateY(0); }
+  0%   { opacity: 0; }
+  10%  { opacity: 1; }
   25%  { opacity: 1; }
-  35%  { opacity: 0; transform: translateY(-0.3em); }
+  35%  { opacity: 0; }
   100% { opacity: 0; }
 }
 
