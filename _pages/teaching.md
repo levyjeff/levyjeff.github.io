@@ -6,6 +6,18 @@ nav: true
 nav_order: 3
 ---
 
+<section class="teaching-carousel">
+  <div class="container">
+    <div class="text-carousel" markdown="0">
+      {% for item in site.data.teaching_carousel %}
+        <div class="text-carousel-slide">
+          {{ item.text }}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
 <section class="teaching-statement">
   <details class="expand-section">
     <summary>Teaching statement</summary>
