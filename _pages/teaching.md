@@ -8,8 +8,9 @@ nav_order: 3
 
 {% assign slides = site.data.teaching_carousel %}
 {% assign count = slides | size %}
-{% assign interval = 6 %}  {# seconds per slide #}
+{% assign interval = 6 %}
 {% assign total = count | times: interval %}
+{% assign delay = forloop.index0 | times: interval %}
 
 <div class="container">
   <div class="text-carousel"
@@ -17,7 +18,7 @@ nav_order: 3
        markdown="0">
     {% for item in slides %}
       <div class="text-carousel-slide"
-           style="--slide-delay: {{ forloop.index0 | times: interval }}s;">
+           style="--slide-delay: -{{ delay }}s;">
         <div class="text-carousel-content">
           <div class="carousel-title">
             {{ item.title }}
