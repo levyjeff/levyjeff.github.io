@@ -1,6 +1,6 @@
 .text-carousel {
   position: relative;
-  min-height: 4.8rem;
+  min-height: 6.5rem;
   overflow: hidden;
   margin: 2rem 0;
   color: var(--global-text-color);
@@ -12,7 +12,7 @@
   position: absolute;
   inset: 0;
   opacity: 0;
-  animation: textCarouselFade 16s infinite;
+  animation: textCarouselFade 48s infinite;
   animation-fill-mode: both;
 }
 
@@ -53,14 +53,14 @@
 
 /* stagger slides */
 .text-carousel-slide:nth-of-type(1) { animation-delay: 0s; }
-.text-carousel-slide:nth-of-type(2) { animation-delay: 4s; }
-.text-carousel-slide:nth-of-type(3) { animation-delay: 8s; }
-.text-carousel-slide:nth-of-type(4) { animation-delay: 12s; }
-.text-carousel-slide:nth-of-type(5) { animation-delay: 16s; }
-.text-carousel-slide:nth-of-type(6) { animation-delay: 20s; }
-.text-carousel-slide:nth-of-type(7) { animation-delay: 24s; }
-.text-carousel-slide:nth-of-type(8) { animation-delay: 28s; }
-.text-carousel-slide:nth-of-type(9) { animation-delay: 32s; }
+.text-carousel-slide:nth-of-type(2) { animation-delay: 6s; }
+.text-carousel-slide:nth-of-type(3) { animation-delay: 12s; }
+.text-carousel-slide:nth-of-type(4) { animation-delay: 18s; }
+.text-carousel-slide:nth-of-type(5) { animation-delay: 24s; }
+.text-carousel-slide:nth-of-type(6) { animation-delay: 30s; }
+.text-carousel-slide:nth-of-type(7) { animation-delay: 36s; }
+.text-carousel-slide:nth-of-type(8) { animation-delay: 42s; }
+.text-carousel-slide:nth-of-type(9) { animation-delay: 48s; }
 
 @keyframes textCarouselFade {
   0%   { opacity: 0; }
@@ -86,5 +86,8 @@
 @media (max-width: 576px) {
   .text-carousel {
     height: 5.2rem;
+  }
+  .carousel-quote {
+    font-size: 0.9rem;
   }
 }
