@@ -1,6 +1,7 @@
 .text-carousel {
   position: relative;
   height: 3.2rem;
+  line-height: 3.2rem;
   overflow: hidden;
   margin: 2rem 0;
   font-size: 1.25rem;
@@ -19,6 +20,8 @@
   inset: 0;
   opacity: 0;
   animation: textCarouselFade 16s infinite;
+  display: flex;
+  align-items: center;
 }
 
 /* stagger slides */
