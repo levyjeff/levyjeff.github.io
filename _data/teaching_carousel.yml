@@ -1,4 +1,15 @@
-- text: "Text 1"
-- text: "Text 2"
-- text: "Text 3"
-- text: "Text 4"
+- title: "Title 1"
+  term: "Autumn 2023"
+  quote: "Great"
+
+- title: "Title 2"
+  term: "Autumn 2024"
+  quote: "Good"
+
+- title: "Title 3"
+  term: "Autumn 2025"
+  quote: "Fine"
+
+- title: "Title 4"
+  term: "Autumn 2026"
+  quote: "What"
