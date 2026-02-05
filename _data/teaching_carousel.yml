@@ -1,15 +1,37 @@
-- title: "Title 1"
-  term: "Autumn 2023"
-  quote: "Great"
-
-- title: "Title 2"
-  term: "Autumn 2024"
-  quote: "Good"
-
-- title: "Title 3"
+- title: "Machine Learning for Public Policy"
   term: "Autumn 2025"
-  quote: "Fine"
+  quote: "The instructor was very responsive to in class questions and created an environment where I felt comfortable asking clarifying questions that I would've been embarrassed asking otherwise."
 
-- title: "Title 4"
-  term: "Autumn 2026"
-  quote: "What"
+- title: "Machine Learning for Public Policy"
+  term: "Autumn 2025"
+  quote: |
+    most enjoyed: jokes
+    least enjoyed: nothing
+
+- title: "Machine Learning for Public Policy"
+  term: "Autumn 2025"
+  quote: "Dr Levy is lively and engaging. His ability to quickly interpret, generalize, and answer questions in class is a skill that makes discussions lively and engaging without slowing down the overall pace of the session. This contributed the most to my learning by encouraging understanding through engagement. NA for least."
+
+- title: "Machine Learning for Public Policy"
+  term: "Autumn 2025"
+  quote: "Dr. Levy is very supportive and helpful. There wasn't any aspect of his teaching that wasn't valuable in my learning. The aspect that contributed most was his explanations especially to the real–world or his experiences because they connected concepts very well."
+
+- title: "Machine Learning for Public Policy"
+  term: "Autumn 2025"
+  quote: "The instructor’s clear, eloquent explanations and structured approach to complex topics greatly enhanced my understanding. His ability to connect theory with intuition and practical examples made the material accessible and engaging."
+
+- title: "Machine Learning for Public Policy"
+  term: "Winter 2025"
+  quote: "Professor Levy is very nice, telling funny jokes, elaborating everything clearly, and respecting everyone in the class."
+
+- title: "Data and Programming for Public Policy"
+  term: "Spring 2025"
+  quote: "Jeffery Levy is a compassionate instructor who is amenable to any questions you may have about course content. He explains concepts clearly and precisely, and pushes students to engage with potential applications of the tools."
+
+- title: "Data and Programming for Public Policy"
+  term: "Spring 2025"
+  quote: "This course was intense and demanding. I consistently spent around 17–18 hours per week on coursework, and found it to be both challenging and intellectually rigorous. The leap from the skills–based problem set to the applied one was well–designed; the applied assignment built effectively on the tools and concepts introduced earlier, reinforcing both technical and analytical competencies. It was a true challenge, and I learned a great deal. The fast pace and difficulty pushed me to deepen my understanding of python tools, and methods."
+
+- title: "Data and Programming for Public Policy"
+  term: "Spring 2025"
+  quote: "Clear communicator, invested in the learning of students, very helpful to students"
