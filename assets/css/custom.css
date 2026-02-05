@@ -6,6 +6,7 @@
   color: var(--global-text-color);
   border-top: 1px solid var(--global-divider-color);
   border-bottom: 1px solid var(--global-divider-color);
+  --slot: calc(var(--carousel-interval) / var(--carousel-total) * 100%);
 }
 
 .text-carousel-slide {
@@ -50,11 +51,21 @@
 }
 
 @keyframes textCarouselFade {
-  0%   { opacity: 0; }
-  10%  { opacity: 1; }
-  70%  { opacity: 1; }
-  90%  { opacity: 0; }
-  100% { opacity: 0; }
+  0% {
+    opacity: 0;
+  }
+  10% {
+    opacity: 1;
+  }
+  calc(var(--slot) * 0.7) {
+    opacity: 1;
+  }
+  var(--slot) {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
 }
 
 .school-logo {
