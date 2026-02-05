@@ -50,24 +50,6 @@
   line-height: 1.3;
 }
 
-@keyframes textCarouselFade {
-  0% {
-    opacity: 0;
-  }
-  10% {
-    opacity: 1;
-  }
-  calc(var(--slot) * 0.7) {
-    opacity: 1;
-  }
-  var(--slot) {
-    opacity: 0;
-  }
-  100% {
-    opacity: 0;
-  }
-}
-
 .school-logo {
   max-height: 25px;
   max-width: 25px;

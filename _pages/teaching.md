@@ -10,7 +10,17 @@ nav_order: 3
 {% assign count = slides | size %}
 {% assign interval = 6 %}
 {% assign total = count | times: interval %}
-{% assign delay = forloop.index0 | times: interval %}
+{% assign slot = 100.0 | divided_by: count %}
+
+<style>
+@keyframes textCarouselFade {
+  0% { opacity: 0; }
+  {{ slot | times: 0.15 }}% { opacity: 1; }
+  {{ slot | times: 0.75 }}% { opacity: 1; }
+  {{ slot }}% { opacity: 0; }
+  100% { opacity: 0; }
+}
+</style>
 
 <div class="container">
   <div class="text-carousel"
