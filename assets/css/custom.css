@@ -35,10 +35,3 @@
   100% { opacity: 0; }
 }
 
-@media (prefers-reduced-motion: reduce) {
-  .text-carousel-slide {
-    animation: none;
-    opacity: 1;
-    position: static;
-  }
-}
