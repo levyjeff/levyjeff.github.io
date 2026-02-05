@@ -18,7 +18,7 @@ nav_order: 3
   </div>
 </div>
 
-<section class="teaching-statement">
+<section class="teaching-statement" style="display: none">
   <details class="expand-section">
     <summary>Teaching statement</summary>
     <div class="expand-content">
