@@ -3,6 +3,7 @@ layout: teaching
 title: Individual Reading and Research
 hide_title: true
 school: University of Chicago
+location: Chicago, IL
 school_logo: /assets/img/uchicago_small.png
 teach_order: 5
 current: false

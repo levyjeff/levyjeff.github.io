@@ -3,6 +3,7 @@ layout: teaching
 title: Data and Programming for Public Policy 1 (Python)
 hide_title: true
 school: University of Chicago
+location: Chicago, IL
 school_logo: /assets/img/uchicago_small.png
 teach_order: 2
 current: true
