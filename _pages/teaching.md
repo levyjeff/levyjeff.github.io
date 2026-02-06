@@ -22,6 +22,7 @@ nav_order: 3
 }
 </style>
 
+<div class="page-teaching">
 <div class="container">
   <div class="text-carousel"
        style="--carousel-total: {{ total }}s; --carousel-interval: {{ interval }}s;"
@@ -80,7 +81,6 @@ nav_order: 3
   </details>
 </section>
 
-
 <section class="teaching-section">
   <h1>current courses</h1>
 
@@ -130,3 +130,5 @@ nav_order: 3
     </article>
   {% endfor %}
 </section>
+</div>
+</div>
