@@ -89,14 +89,17 @@
 .teaching-card-grid .school-logo {
   grid-column: 1;
   grid-row: 1;
-  align-self: start;
-  max-height: 40px;
-  max-width: 40px;
+  align-self: center;
+  justify-self: center;
+  max-height: 48px;
+  max-width: 48px;
 }
 
 .teaching-card-grid .teaching-content {
   grid-column: 2;
   grid-row: 1;
+  display: grid;
+  row-gap: 0.2rem;
 }
 
 .teaching-card-grid .teaching-desc {
