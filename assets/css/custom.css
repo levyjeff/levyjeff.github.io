@@ -82,7 +82,7 @@
   grid-template-columns: 50px 1fr;
   grid-template-rows: auto auto;
   column-gap: 1rem;
-  row-gap: 0.25rem;
+  row-gap: 0.15rem;
   align-items: start;
 }
 
@@ -93,7 +93,7 @@
   justify-self: center;
   max-height: 40px;
   max-width: 40px;
-  transform: translateY(-0.2em);
+  transform: translateY(-0.25em);
 }
 
 .teaching-card-grid .teaching-content {
