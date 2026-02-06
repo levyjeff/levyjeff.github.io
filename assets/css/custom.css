@@ -91,8 +91,9 @@
   grid-row: 1;
   align-self: center;
   justify-self: center;
-  max-height: 48px;
-  max-width: 48px;
+  max-height: 40px;
+  max-width: 40px;
+  transform: translateY(-0.15em);
 }
 
 .teaching-card-grid .teaching-content {
