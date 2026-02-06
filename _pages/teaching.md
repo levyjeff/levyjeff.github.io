@@ -37,7 +37,7 @@ nav_order: 3
             <span class="carousel-term">{{ item.term }}</span>
           </div>
           <div class="carousel-quote">
-            “{{ item.quote }}”
+            "{{ item.quote | replace: "\n", "<br>"}}"
           </div>
         </div>
       </div>
