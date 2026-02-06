@@ -93,6 +93,7 @@
   justify-self: center;
   max-height: 40px;
   max-width: 40px;
+  transform: translateY(0.15em);
 }
 
 .teaching-card-grid .teaching-content {
