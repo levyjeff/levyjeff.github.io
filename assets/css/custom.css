@@ -6,7 +6,6 @@
   color: var(--global-text-color);
   border-top: 1px solid var(--global-divider-color);
   border-bottom: 1px solid var(--global-divider-color);
-  --slot: calc(var(--carousel-interval) / var(--carousel-total) * 100%);
 }
 
 .text-carousel-slide {
@@ -18,6 +17,7 @@
   animation-delay: var(--slide-delay);
   animation-iteration-count: infinite;
   animation-fill-mode: both;
+  animation-timing-function: linear;
 }
 
 .text-carousel-content {

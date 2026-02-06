@@ -28,7 +28,7 @@ nav_order: 3
        markdown="0">
     {% for item in slides %}
       <div class="text-carousel-slide"
-           style="--slide-delay: -{{ delay }}s;">
+           style="--slide-delay: {{ delay }}s;">
         <div class="text-carousel-content">
           <div class="carousel-title">
             {{ item.title }}
