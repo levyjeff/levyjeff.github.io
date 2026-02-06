@@ -13,18 +13,19 @@ nav_order: 4
   {% for cat in categories %}
     <h1>{{ cat }}</h1>
 
-    {% assign filtered_talks = site.data.talks | where: "type", cat | sort: "year" | reverse %}
+  {% assign filtered_talks = site.data.talks | where: "type", cat | sort: "year" | reverse %}
 
-    {% for t in filtered_talks %}
-      <article class="teaching-card">
+  {% for t in filtered_talks %}
+    <article class="teaching-card">
+      {% if t.logo %}
+        <img src="{{ t.logo | relative_url }}" alt="{{ t.organization }} logo" class="school-logo">
+      {% endif %}
+      <div class="teaching-content">
         <header class="teaching-header">
           {% if t.url %}
             <a class="course-link" href="{{ t.url | relative_url }}">{{ t.title }}</a>
           {% else %}
             <span class="course-name">{{ t.title }}</span>
-          {% endif %}
-          {% if t.logo %}
-            <img src="{{ t.logo | relative_url }}" alt="{{ t.organization }} logo" class="school-logo">
           {% endif %}
         </header>
 
@@ -43,8 +44,9 @@ nav_order: 4
         {% if t.description %}
           <p class="teaching-desc">{{ t.description }}</p>
         {% endif %}
-      </article>
-    {% endfor %}
+      </div>
+    </article>
+  {% endfor %}
 
   {% endfor %}
 </section>

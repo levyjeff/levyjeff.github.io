@@ -81,6 +81,25 @@
   font-style: italic;
 }
 
+.teaching-card {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 1rem;
+  align-items: start;
+}
+
+.teaching-card .school-logo {
+  max-height: 50px;
+  max-width: 50px;
+  margin-top: 0.25rem;
+}
+
+.teaching-content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
 @media (max-width: 576px) {
   .text-carousel {
     height: 5.2rem;
