@@ -48,6 +48,7 @@
   font-style: italic;
   color: var(--global-muted-text-color);
   line-height: 1.3;
+  white-space: pre-line;
 }
 
 .school-logo {
