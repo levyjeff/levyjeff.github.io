@@ -16,37 +16,40 @@ nav_order: 4
   {% assign filtered_talks = site.data.talks | where: "type", cat | sort: "year" | reverse %}
 
   {% for t in filtered_talks %}
-    <article class="teaching-card">
-      {% if t.logo %}
-        <img src="{{ t.logo | relative_url }}" alt="{{ t.organization }} logo" class="school-logo">
-      {% endif %}
-      <div class="teaching-content">
-        <header class="teaching-header">
-          {% if t.url %}
-            <a class="course-link" href="{{ t.url | relative_url }}">{{ t.title }}</a>
-          {% else %}
-            <span class="course-name">{{ t.title }}</span>
-          {% endif %}
-        </header>
+  <article class="teaching-card teaching-card-grid">
+    {% if t.logo %}
+      <img src="{{ t.logo | relative_url }}"
+          alt="{{ t.organization }} logo"
+          class="school-logo">
+    {% endif %}
 
-          <p class="teaching-meta">
-            <span class="school">{{ t.organization }}</span>
-            {% if t.location %}
-              <span class="sep">•</span>
-              <span class="location">{{ t.location }}</span>
-            {% endif %}
-            {% if t.year %}
-              <span class="sep">•</span>
-              <span class="year">{{ t.year }}</span>
-            {% endif %}
-          </p>
-        </div>
-      </div>
+    <div class="teaching-content">
+      <header class="teaching-header">
+        {% if t.url %}
+          <a class="course-link" href="{{ t.url | relative_url }}">{{ t.title }}</a>
+        {% else %}
+          <span class="course-name">{{ t.title }}</span>
+        {% endif %}
+      </header>
 
-      {% if t.description %}
-        <p class="teaching-desc">{{ t.description }}</p>
-      {% endif %}
-    </article>
+      <p class="teaching-meta">
+        <span class="school">{{ t.organization }}</span>
+        {% if t.location %}
+          <span class="sep">•</span>
+          <span class="location">{{ t.location }}</span>
+        {% endif %}
+        {% if t.year %}
+          <span class="sep">•</span>
+          <span class="year">{{ t.year }}</span>
+        {% endif %}
+      </p>
+    </div>
+
+    {% if t.description %}
+      <p class="teaching-desc">{{ t.description }}</p>
+    {% endif %}
+  </article>
+
   {% endfor %}
 
   {% endfor %}
