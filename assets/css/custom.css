@@ -64,10 +64,6 @@
   align-items: baseline;
 }
 
-.teaching-desc {
-  padding-left: 1rem;
-}
-
 .teaching-header .course-name {
   color: var(--global-theme-color);
   font-size: 1.1rem;
