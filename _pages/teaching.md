@@ -27,6 +27,8 @@ nav_order: 3
        style="--carousel-total: {{ total }}s; --carousel-interval: {{ interval }}s;"
        markdown="0">
     {% for item in slides %}
+      {% assign slide_index = forloop.index0 %}
+      {% assign delay = slide_index | times: interval %}
       <div class="text-carousel-slide"
            style="--slide-delay: {{ delay }}s;">
         <div class="text-carousel-content">
