@@ -83,7 +83,7 @@
   grid-template-rows: auto auto;
   column-gap: 1rem;
   row-gap: 0.1rem;
-  align-items: start;
+  align-items: center;
 }
 
 .teaching-card-grid .school-logo {
@@ -93,7 +93,7 @@
   justify-self: center;
   max-height: 40px;
   max-width: 40px;
-  transform: translateY(-0.3em);
+  transform: translateY(-0.1em);
 }
 
 .teaching-card-grid .teaching-content {
