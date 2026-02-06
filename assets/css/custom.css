@@ -65,14 +65,19 @@
 }
 
 .teaching-desc {
-  padding-left: 1rem;
+  padding-left: 2rem;
 }
 
-.course-name {
+.teaching-header .course-name {
+  font-weight: 600;
   font-size: 1.1rem;
 }
 
-.location {
+.teaching-header .course-link {
+  font-size: 1.1rem;
+}
+
+.teaching-meta .location {
   font-style: italic;
 }
 
