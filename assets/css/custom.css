@@ -51,7 +51,7 @@
   white-space: pre-line;
 }
 
-.page-teaching .school-logo {
+.school-logo {
   max-height: 25px;
   max-width: 25px;
   width: auto;
@@ -59,7 +59,7 @@
   object-fit: contain;
 }
 
-.page-teaching .teaching-header {
+.teaching-header {
   gap: 0.75rem;
   align-items: baseline;
 }
