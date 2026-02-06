@@ -3,6 +3,7 @@
   location: Champaign, IL
   year: 2026
   logo: /assets/img/uiuc_small.png
+  url: https://csbs.research.illinois.edu/machine-learning-workshop-tree-based-methods-february-27/
   type: workshops
   description: Taking place February 27th, the second part of my ML workshop for the Center for Social and Behavioral Science will focus on tree-based methods, including the basic decision tree, more advanced applications like random forests and boosting, and will end with how these models are used in the recent economics literature.
 
@@ -11,6 +12,7 @@
   location: Champaign, IL
   year: 2025
   logo: /assets/img/uiuc_small.png
+  url: https://csbs.research.illinois.edu/machine-learning-for-social-and-behavioral-science-workshop-oct-3/
   type: workshops
   description: An all-day workshop on October 23rd for 50+ faculty and students introducing core machine learning concepts from the perspective of those trained in causal inference. Includes a hands-on exercise.
 

@@ -91,7 +91,8 @@
 .teaching-card .school-logo {
   max-height: 50px;
   max-width: 50px;
-  margin-top: 0.25rem;
+  grid-row: 1 / -1;
+  align-self: center;
 }
 
 .teaching-content {
