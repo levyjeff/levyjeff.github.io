@@ -64,6 +64,18 @@
   align-items: baseline;
 }
 
+.talks-header .course-link {
+  font-size: 1.1rem;
+}
+
+.talks-meta .school {
+  font-weight: 600;
+}
+
+.talks-meta .location {
+  font-style: italic;
+}
+
 @media (max-width: 576px) {
   .text-carousel {
     height: 5.2rem;

@@ -17,7 +17,7 @@ nav_order: 4
 
     {% for t in filtered_talks %}
       <article class="teaching-card">
-        <header class="teaching-header">
+        <header class="talks-header">
           {% if t.url %}
             <a class="course-link" href="{{ t.url | relative_url }}">{{ t.title }}</a>
           {% else %}
@@ -28,7 +28,7 @@ nav_order: 4
           {% endif %}
         </header>
 
-        <p class="teaching-meta">
+        <p class="talks-meta">
           <span class="school">{{ t.organization }}</span>
           {% if t.location %}
             <span class="sep">•</span>
