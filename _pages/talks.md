@@ -8,7 +8,7 @@ nav_order: 4
 
 <section class="teaching-section">
 
-  {% assign categories = "Workshops,Talks,Panels" | split: "," %}
+  {% assign categories = "workshops,talks,panels" | split: "," %}
 
   {% for cat in categories %}
     <h1>{{ cat }}</h1>

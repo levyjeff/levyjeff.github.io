@@ -82,7 +82,7 @@ nav_order: 3
 
 
 <section class="teaching-section">
-  <h1>Current Courses</h1>
+  <h1>current courses</h1>
 
   {% assign current_courses = site.teaching | where: "current", true | sort: "teach_order" %}
   {% for t in current_courses %}
@@ -106,7 +106,7 @@ nav_order: 3
     </article>
   {% endfor %}
 
-  <h1>Past Courses</h1>
+  <h1>past courses</h1>
 
   {% assign past_courses = site.teaching | where: "current", false | sort: "teach_order" %}
   {% for t in past_courses %}
