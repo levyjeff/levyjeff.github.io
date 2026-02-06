@@ -129,4 +129,3 @@ nav_order: 3
     </article>
   {% endfor %}
 </section>
-</div>
