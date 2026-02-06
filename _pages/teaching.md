@@ -140,6 +140,10 @@ nav_order: 3
 
         <p class="teaching-meta">
           <span class="school">{{ t.school }}</span>
+          {% if t.location %}
+            <span class="sep">•</span>
+            <span class="location">{{ t.location }}</span>
+          {% endif %}
           <span class="sep">•</span>
           <span class="semesters">{{ t.semesters }}</span>
         </p>
