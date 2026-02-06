@@ -64,6 +64,10 @@
   align-items: baseline;
 }
 
+.teaching-desc {
+  padding-left: 1rem;
+}
+
 .talks-header .course-link {
   font-size: 1.1rem;
 }
