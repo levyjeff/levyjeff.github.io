@@ -81,14 +81,14 @@
   font-style: italic;
 }
 
-.teaching-card {
+.teaching-card-grid {
   display: grid;
   grid-template-columns: auto 1fr;
   gap: 1rem;
   align-items: start;
 }
 
-.teaching-card .school-logo {
+.teaching-card-grid .school-logo {
   max-height: 50px;
   max-width: 50px;
   grid-row: 1 / -1;

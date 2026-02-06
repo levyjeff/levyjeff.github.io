@@ -29,22 +29,23 @@ nav_order: 4
           {% endif %}
         </header>
 
-        <p class="teaching-meta">
-          <span class="school">{{ t.organization }}</span>
-          {% if t.location %}
-            <span class="sep">•</span>
-            <span class="location">{{ t.location }}</span>
-          {% endif %}
-          {% if t.year %}
-            <span class="sep">•</span>
-            <span class="year">{{ t.year }}</span>
-          {% endif %}
-        </p>
-
-        {% if t.description %}
-          <p class="teaching-desc">{{ t.description }}</p>
-        {% endif %}
+          <p class="teaching-meta">
+            <span class="school">{{ t.organization }}</span>
+            {% if t.location %}
+              <span class="sep">•</span>
+              <span class="location">{{ t.location }}</span>
+            {% endif %}
+            {% if t.year %}
+              <span class="sep">•</span>
+              <span class="year">{{ t.year }}</span>
+            {% endif %}
+          </p>
+        </div>
       </div>
+
+      {% if t.description %}
+        <p class="teaching-desc">{{ t.description }}</p>
+      {% endif %}
     </article>
   {% endfor %}
 
