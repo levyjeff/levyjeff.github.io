@@ -68,15 +68,15 @@
   padding-left: 1rem;
 }
 
-.talks-header .course-link {
+.course-name {
   font-size: 1.1rem;
 }
 
-.talks-meta .school {
+.school {
   font-weight: 600;
 }
 
-.talks-meta .location {
+.location {
   font-style: italic;
 }
 

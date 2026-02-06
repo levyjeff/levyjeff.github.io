@@ -17,18 +17,18 @@ nav_order: 4
 
     {% for t in filtered_talks %}
       <article class="teaching-card">
-        <header class="talks-header">
+        <header class="teaching-header">
           {% if t.url %}
             <a class="course-link" href="{{ t.url | relative_url }}">{{ t.title }}</a>
           {% else %}
-            <span class="course-link">{{ t.title }}</span>
+            <span class="course-name">{{ t.title }}</span>
           {% endif %}
           {% if t.logo %}
             <img src="{{ t.logo | relative_url }}" alt="{{ t.organization }} logo" class="school-logo">
           {% endif %}
         </header>
 
-        <p class="talks-meta">
+        <p class="teaching-meta">
           <span class="school">{{ t.organization }}</span>
           {% if t.location %}
             <span class="sep">•</span>
