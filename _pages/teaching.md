@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-{% assign slides = site.data.teaching_carousel %}
+{% assign slides = site.data.teaching_carousel | shuffle %}
 {% assign count = slides | size %}
 {% assign interval = 12 %}
 {% assign total = count | times: interval %}
