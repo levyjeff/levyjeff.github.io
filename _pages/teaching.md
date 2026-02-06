@@ -8,7 +8,7 @@ nav_order: 3
 
 {% assign slides = site.data.teaching_carousel | shuffle %}
 {% assign count = slides | size %}
-{% assign interval = 12 %}
+{% assign interval = 15 %}
 {% assign total = count | times: interval %}
 {% assign slot = 100.0 | divided_by: count %}
 
@@ -16,7 +16,7 @@ nav_order: 3
 @keyframes textCarouselFade {
   0% { opacity: 0; }
   {{ slot | times: 0.15 }}% { opacity: 1; }
-  {{ slot | times: 0.75 }}% { opacity: 1; }
+  {{ slot | times: 0.85 }}% { opacity: 1; }
   {{ slot }}% { opacity: 0; }
   100% { opacity: 0; }
 }
