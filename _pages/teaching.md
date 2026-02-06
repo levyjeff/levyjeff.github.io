@@ -15,8 +15,8 @@ nav_order: 3
 <style>
 @keyframes textCarouselFade {
   0% { opacity: 0; }
-  {{ slot | times: 0.1 }}% { opacity: 1; }
-  {{ slot | times: 0.9 }}% { opacity: 1; }
+  {{ slot | times: 0.05 }}% { opacity: 1; }
+  {{ slot | times: 0.95 }}% { opacity: 1; }
   {{ slot }}% { opacity: 0; }
   100% { opacity: 0; }
 }
