@@ -8,7 +8,7 @@ nav_order: 3
 
 {% assign slides = site.data.teaching_carousel | shuffle %}
 {% assign count = slides | size %}
-{% assign interval = 8 %}
+{% assign interval = 10 %}
 {% assign total = count | times: interval %}
 {% assign slot = 100.0 | divided_by: count %}
 
