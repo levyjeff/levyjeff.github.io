@@ -43,3 +43,5 @@ nav_order: 5
   {% endfor %}
 </div>
 {% endif %}
+
+<pre>{{ site.data.repo_metadata | jsonify }}</pre>
