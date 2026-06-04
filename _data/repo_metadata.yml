@@ -1,29 +1,36 @@
 levyjeff/hamilton_filter:
-  stars: 0
+  stars: 1
   forks: 0
   language: Python
-  description: ""
-
+  description: Python implementation of James Hamilton's (2018) alternative to the
+    Hodrick-Prescott filter.
+  html_url: https://github.com/levyjeff/hamilton_filter
 levyjeff/anderson_rubin_ci:
   stars: 0
   forks: 0
   language: Python
-  description: ""
-
+  description: Calculates Anderson-Rubin confidence intervals for Statsmodels 2SLS
+    output in Python.
+  html_url: https://github.com/levyjeff/anderson_rubin_ci
 levyjeff/simple_abm:
-  stars: 0
-  forks: 0
+  stars: 1
+  forks: 3
   language: Python
-  description: ""
-
+  description: A Python demonstration of functions and classes to create an agent-based
+    model of Schelling's work on housing segregation.
+  html_url: https://github.com/levyjeff/simple_abm
 UrbanInstitute/pyspark-tutorials:
-  stars: 0
-  forks: 0
+  stars: 415
+  forks: 185
   language: Jupyter Notebook
-  description: ""
-
+  description: Code snippets and tutorials for working with social science data in
+    PySpark
+  html_url: https://github.com/UrbanInstitute/pyspark-tutorials
 levyjeff/levyjeff.github.io:
   stars: 0
   forks: 0
   language: HTML
-  description: ""
+  description: If you like this webpage, you're welcome to peruse my modifications
+    to the al-folio Jekyll theme and borrow whatever you like! Thanks to the al-folio
+    maintainers for the great template to start from.
+  html_url: https://github.com/levyjeff/levyjeff.github.io
