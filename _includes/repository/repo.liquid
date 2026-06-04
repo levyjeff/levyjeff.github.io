@@ -31,17 +31,36 @@
   {% assign max_lines = 2 %}
 {% endif %}
 
-<div class="repo p-2 text-center">
-  <a href="https://github.com/{{ include.repository }}">
-    <img
-      class="only-light w-100"
-      alt="{{ include.repository }}"
-      src="https://github-readme-stats.vercel.app/api/pin/?username={{ repo_url[0] }}&repo={{ repo_url[1] }}&theme={{ site.repo_theme_light }}&locale={{ lang }}&show_owner={{ show_owner }}&description_lines_count={{ max_lines }}"
-    >
-    <img
-      class="only-dark w-100"
-      alt="{{ include.repository }}"
-      src="https://github-readme-stats.vercel.app/api/pin/?username={{ repo_url[0] }}&repo={{ repo_url[1] }}&theme={{ site.repo_theme_dark }}&locale={{ lang }}&show_owner={{ show_owner }}&description_lines_count={{ max_lines }}"
-    >
-  </a>
+{% assign metadata = site.data.repo_metadata[include.repository] %}
+
+<div class="repo-card">
+
+  <h4>
+    <a href="https://github.com/{{ include.repository }}">
+      {{ repo_url[1] }}
+    </a>
+  </h4>
+
+  {% if metadata.description %}
+    <p class="repo-description">
+      {{ metadata.description }}
+    </p>
+  {% endif %}
+
+  <div class="repo-meta">
+
+    {% if show_owner %}
+      <span>{{ repo_url[0] }}</span>
+    {% endif %}
+
+    {% if metadata.language %}
+      <span>{{ metadata.language }}</span>
+    {% endif %}
+
+    <span>★ {{ metadata.stars }}</span>
+
+    <span>⑂ {{ metadata.forks }}</span>
+
+  </div>
+
 </div>
