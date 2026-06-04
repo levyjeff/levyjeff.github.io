@@ -148,34 +148,3 @@
     font-size: 0.9em;
   }
 }
-
-.repo-card {
-  border: 1px solid var(--global-divider-color);
-  border-radius: 0.5rem;
-  padding: 1rem;
-  margin: 0.75rem 0;
-  background: var(--global-bg-color);
-
-  width: 100%;
-}
-
-.repo-card h4 {
-  margin-bottom: 0.4rem;
-}
-
-.repo-card h4 a {
-  text-decoration: none;
-}
-
-.repo-description {
-  margin-bottom: 0.75rem;
-}
-
-.repo-meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-
-  font-size: 0.9rem;
-  color: var(--global-text-color-light);
-}
