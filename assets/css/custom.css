@@ -184,6 +184,13 @@
   gap: 0.25rem;
 }
 
+/* Make entire repo card clickable */
+.repo-card:hover {
+  box-shadow: 0 2px 8px rgba(0,0,0,.08);
+  transform: translateY(-1px);
+  transition: all 0.15s ease;
+}
+
 .language-dot {
   width: 0.6rem;
   height: 0.6rem;
