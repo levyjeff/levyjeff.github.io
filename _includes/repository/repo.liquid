@@ -35,9 +35,23 @@
       </span>
     {% endif %}
 
-    <span>★ {{ metadata.stars }}</span>
+    <span class="repo-stat">
+      <img
+        src="{{ '/assets/img/star-16.svg' | relative_url }}"
+        alt=""
+        class="repo-meta-icon"
+      >
+      {{ metadata.stars }}
+    </span>
 
-    <span>⑂ {{ metadata.forks }}</span>
+    <span class="repo-stat">
+      <img
+        src="{{ '/assets/img/repo-forked-16.svg' | relative_url }}"
+        alt=""
+        class="repo-meta-icon"
+      >
+      {{ metadata.forks }}
+    </span>
 
   </div>
 
