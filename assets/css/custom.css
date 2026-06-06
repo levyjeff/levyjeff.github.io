@@ -159,6 +159,8 @@
   display: inline-flex;
   align-items: center;
   gap: 0.4rem;
+
+  color: var(--global-theme-color);
 }
 
 .repo-icon {
