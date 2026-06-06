@@ -120,14 +120,22 @@
 }
 
 
+.repositories {
+  display: grid !important;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  align-items: start;
+}
+
 .repo-card {
   border: 1px solid var(--global-divider-color);
   border-radius: 0.5rem;
   padding: 1rem;
-  margin: 0.75rem 0;
   background: var(--global-bg-color);
+  display: flex;
+  flex-direction: column;
 
-  width: 100%;
+  height: 100%;
 }
 
 .repo-card h4 {
@@ -140,6 +148,7 @@
 
 .repo-description {
   margin-bottom: 0.75rem;
+  flex-grow: 1;
 }
 
 .repo-meta {
@@ -149,4 +158,10 @@
 
   font-size: 0.9rem;
   color: var(--global-text-color-light);
+}
+
+@media (max-width: 768px) {
+  .repositories {
+    grid-template-columns: 1fr;
+  }
 }
