@@ -127,17 +127,6 @@
   align-items: start;
 }
 
-.repo-card {
-  border: 1px solid var(--global-divider-color);
-  border-radius: 0.5rem;
-  padding: 1rem;
-  background: var(--global-bg-color);
-  display: flex;
-  flex-direction: column;
-
-  height: 100%;
-}
-
 .repo-card h4 {
   margin-bottom: 0.4rem;
 }
@@ -188,6 +177,9 @@
 .repo-card {
   display: flex;
   flex-direction: column;
+  background: var(--global-bg-color);
+
+  height: 100%;
 
   border: 1px solid var(--global-divider-color);
   border-radius: 0.5rem;
@@ -198,6 +190,15 @@
   cursor: pointer;
 
   transition: all 0.15s ease;
+}
+
+/*disable text underlining on hover*/
+.repo-card:hover {
+  text-decoration: none;
+  color: inherit;
+
+  box-shadow: 0 2px 8px rgba(0,0,0,.08);
+  transform: translateY(-1px);
 }
 
 .language-dot {
