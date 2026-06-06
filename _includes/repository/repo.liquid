@@ -7,10 +7,10 @@
 
 {% assign metadata = site.data.repo_metadata[include.repository] %}
 
-<div class="repo-card">
+<a href="{{ metadata.html_url }}" class="repo-card">
 
   <h4>
-    <a href="{{ metadata.html_url }}" class="repo-title-link">
+    <span class="repo-title-link">
       <img
         src="{{ '/assets/img/repo-16.svg' | relative_url }}"
         alt=""
@@ -55,4 +55,4 @@
 
   </div>
 
-</div>
+</a>
