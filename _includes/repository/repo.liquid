@@ -10,7 +10,12 @@
 <div class="repo-card">
 
   <h4>
-    <a href="{{ metadata.html_url }}">
+    <a href="{{ metadata.html_url }}" class="repo-title-link">
+      <img
+        src="{{ '/assets/img/repo-16.svg' | relative_url }}"
+        alt=""
+        class="repo-icon"
+      >
       {{ repo_url[1] }}
     </a>
   </h4>
