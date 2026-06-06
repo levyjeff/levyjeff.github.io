@@ -177,3 +177,26 @@
   height: 16px;
   flex-shrink: 0;
 }
+
+.repo-language {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.language-dot {
+  width: 0.6rem;
+  height: 0.6rem;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+/* GitHub language colors */
+
+.language-python {
+  background-color: #3572A5;
+}
+
+.language-jupyter-notebook {
+  background-color: #DA5B0B;
+}

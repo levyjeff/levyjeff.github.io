@@ -28,12 +28,11 @@
 
   <div class="repo-meta">
 
-    {% if show_owner %}
-      <span>{{ repo_url[0] }}</span>
-    {% endif %}
-
     {% if metadata.language %}
-      <span>{{ metadata.language }}</span>
+      <span class="repo-language">
+        <span class="language-dot language-{{ metadata.language | slugify }}"></span>
+        {{ metadata.language }}
+      </span>
     {% endif %}
 
     <span>★ {{ metadata.stars }}</span>
