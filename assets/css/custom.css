@@ -29,7 +29,7 @@
 
 .carousel-title {
   border-left: 3px solid var(--global-accent-color);
-  padding-left: 0.6rem;
+  padding-left: 0.0rem; /*formerly 0.6*/
   font-size: 1.1rem;
   font-weight: 600;
   line-height: 1.2;
