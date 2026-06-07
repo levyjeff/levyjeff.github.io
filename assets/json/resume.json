@@ -60,7 +60,16 @@
       "studyType": "PhD",
       "startDate": "2012-09-01",
       "endDate": "2020-12-01",
-      "courses": ["Monetary Economics"]
+      "courses": ["Monetary Economics", "Macroeconomics"]
+    },
+    {
+      "institution": "American University",
+      "location": "Washington, DC",
+      "url": "https://www.american.edu/cas/economics/",
+      "area": "Economics",
+      "studyType": "MS",
+      "startDate": "2012-09-01",
+      "endDate": "2014-08-01",
     },
     {
       "institution": "Michigan State University",
