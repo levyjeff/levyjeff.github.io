@@ -24,11 +24,20 @@
   },
   "work": [
     {
+      "name": "Michigan State University, Department of Economics",
+      "position": "Assistant Professor of Instruction",
+      "url": "",
+      "startDate": "2026-08-31",
+      "endDate": "current",
+      "summary": "Instructional faculty focusing primarily on macroeconomics.",
+      "highlights": ["Principles", "Microeconomics", "Macroeconomics"]
+    },
+    {
       "name": "Harris School of Public Policy, University of Chicago",
       "position": "Assistant Instructional Professor",
       "url": "https://harris.uchicago.edu/directory/jeff-levy",
       "startDate": "2019-04-01",
-      "endDate": "Current",
+      "endDate": "2026-08-31",
       "summary": "Instructional faculty focusing on data and programming and machine learning, as well as instruction in Python and R. I also organize professional development workshops and events for students.",
       "highlights": ["Public Policy", "Data Analysis", "Machine Learning"]
     },
@@ -56,7 +65,7 @@
     {
       "institution": "Michigan State University",
       "location": "East Lansing, MI",
-      "url": "https://www.msu.edu/",
+      "url": "https://socialscience.msu.edu/",
       "area": "Economics, Political Science",
       "studyType": "BA",
       "startDate": "2008-09-01",
@@ -93,28 +102,6 @@
         "SQL - basic",
         "Apache Spark - basic"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Dr. Ryan Kellogg",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Deputy Dean for Academic Programs and Faculty Director, Harris School of Public Policy, University of Chicago. Contact: kelloggr@uchicago.edu"
-    },
-    {
-      "name": "Dr. Xuguang Simon Sheng",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Economics Department Chair, American University. Co-author, and formerly my dissertation committee chair. Contact: sheng@american.edu"
-    },
-    {
-      "name": "Dr. Gabriel Mathy",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Associate Professor, American University Department of Economics. Co-author, and formerly a member of my dissertation committee. Contact: mathy@american.edu"
-    },
-    {
-      "name": "Jessica Kelly",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Senior Director, Research and Web Technology, Urban Institute. Formerly my supervisor as a data scientist. Contact: jkelly@urban.org"
     }
   ]
 }
