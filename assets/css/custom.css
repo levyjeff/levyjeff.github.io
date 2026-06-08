@@ -227,3 +227,8 @@
 .language-r {
   background-color: #198CE7;
 }
+
+/* Move the pdf link to the right of the title on the CV */
+.cv-pdf-link {
+  margin-left: 0.4rem;
+}
