@@ -234,3 +234,15 @@
   vertical-align: middle;
   font-size: 1em;
 }
+
+/* Create divider between years on news page */
+.news-year-header h3 {
+  margin: 0;
+  font-size: 1.25rem;
+  color: var(--global-theme-color);
+}
+
+.news-year-divider {
+  margin: 1rem 0 0.5rem 0;
+  border-top: 1px solid var(--global-divider-color);
+}
