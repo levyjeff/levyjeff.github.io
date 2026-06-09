@@ -26,6 +26,7 @@
     {
       "name": "Michigan State University, Department of Economics",
       "position": "Assistant Professor of Instruction",
+      "location": "East Lansing, MI",
       "url": "https://econ.msu.edu/about/directory",
       "startDate": "2026-08-31",
       "endDate": "current",
@@ -35,6 +36,7 @@
     {
       "name": "Harris School of Public Policy, University of Chicago",
       "position": "Assistant Instructional Professor",
+      "location": "Chicago, IL",
       "url": "https://harris.uchicago.edu/directory/jeff-levy",
       "startDate": "2019-04-01",
       "endDate": "2026-08-31",
@@ -44,6 +46,7 @@
     {
       "name": "Urban Institute",
       "position": "Data Scientist",
+      "location": "Washington, DC",
       "url": "https://www.urban.org/",
       "startDate": "2016-06-01",
       "endDate": "2019-04-01",
