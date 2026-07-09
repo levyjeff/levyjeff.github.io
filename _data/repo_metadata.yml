@@ -20,8 +20,8 @@ levyjeff/simple_abm:
     model of Schelling's work on housing segregation.
   html_url: https://github.com/levyjeff/simple_abm
 UrbanInstitute/pyspark-tutorials:
-  stars: 415
-  forks: 185
+  stars: 416
+  forks: 183
   language: Jupyter Notebook
   description: Code snippets and tutorials for working with social science data in
     PySpark
