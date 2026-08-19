@@ -5,7 +5,7 @@ hide_title: true
 school: University of Chicago
 location: Chicago, IL
 school_logo: /assets/img/uchicago_small.png
-teach_order: 8
+teach_order: 10
 current: false
 semesters: "Summer 2024"
 short_description: Summer program introducing public policy analysis to aspiring scholars.

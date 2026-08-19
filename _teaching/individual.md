@@ -5,7 +5,7 @@ hide_title: true
 school: University of Chicago
 location: Chicago, IL
 school_logo: /assets/img/uchicago_small.png
-teach_order: 5
+teach_order: 7
 current: false
 semesters: "Spring 2023, Autumn 2023, Spring 2021 (3x)"
 short_description: Guiding individual students in research projects of their own for credit.

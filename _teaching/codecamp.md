@@ -5,8 +5,8 @@ hide_title: true
 school: University of Chicago
 location: Chicago, IL
 school_logo: /assets/img/uchicago_small.png
-teach_order: 4
-current: true
+teach_order: 6
+current: false
 semesters: "September 2024, 2025 (4x)"
 short_description: Three-week accelerated coding instruction for incoming MPP and MSCAPP students in R.
 syllabus: 

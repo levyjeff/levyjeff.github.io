@@ -5,7 +5,7 @@ hide_title: true
 school: American University
 location: Washington, DC
 school_logo: /assets/img/au_small.png
-teach_order: 9
+teach_order: 11
 current: false
 semesters: "Autumn 2016"
 short_description: Introductory undergradate economics course.

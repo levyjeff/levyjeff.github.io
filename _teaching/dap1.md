@@ -5,8 +5,8 @@ hide_title: true
 school: University of Chicago
 location: Chicago, IL
 school_logo: /assets/img/uchicago_small.png
-teach_order: 2
-current: true
+teach_order: 4
+current: false
 semesters: "Spring 2019-2026, Summer 2020 (19x)"
 short_description: Research methods class teaching programming and data analysis in Python.
 syllabus: 

@@ -5,7 +5,7 @@ hide_title: true
 school: University of Chicago
 location: Riyadh, Saudi Arabia
 school_logo: /assets/img/dsc_small.png
-teach_order: 7
+teach_order: 9
 current: false
 semesters: "Autumn 2023, 2024 (4x)"
 short_description: Professional education in data analytics and programming in Riyadh, Saudi Arabia.

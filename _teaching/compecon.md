@@ -5,7 +5,7 @@ hide_title: true
 school: University of Chicago
 location: Chicago, IL
 school_logo: /assets/img/uchicago_small.png
-teach_order: 6
+teach_order: 8
 current: false
 semesters: "Spring 2019, 2020 (4x)"
 short_description: Master's level economics course focusing on market structures beyond perfect competition.
