@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://harris.uchicago.edu/directory/jeff-levy'>University of Chicago, Harris School of Public Policy</a>
+subtitle: <a href='https://econ.msu.edu/about/directory/l/levy-jeffrey'>Michigan State University, Department of Economics</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Keller Center Office 3101</p>
-    <p>1307 E 60th St</p>
-    <p>Chicago, IL 60637</p>
+    <p>18F Marshall-Adams Hall</p>
+    <p>486 W Circle Dr</p>
+    <p>East Lansing, MI 48824</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an economist and assistant instructional professor in public policy focusing on the intersection of data science and social science. My research focuses on macroeconomics and economic uncertainty, particularly the causes and impacts of economic uncertainty on the real economy, following a long line of economists from [Keynes](https://academic.oup.com/qje/article-abstract/51/2/209/1939387), [Knight](https://mises.org/sites/default/files/Risk,%20Uncertainty,%20and%20Profit_4.pdf), [Bernanke](https://academic.oup.com/qje/article-abstract/98/1/85/1869115), [Romer](https://academic.oup.com/qje/article-abstract/105/3/597/1864581) and more recently, [Alexopoulos and Cohen](https://www.sciencedirect.com/science/article/pii/S1059056015000246?casa_token=6RCqOTGfNT4AAAAA:3UJ3dQVSy6GapzSbMtLgF3ikJLAWuzXtRMZQpPWudoI13xJVpW-u5UnHWtQWlJUV2YEAgy6G-w), and [Baker, Bloom and Davis](https://academic.oup.com/qje/article/131/4/1593/2468873). I am also pursuing research on pedagogy and prediction using machine learning techniques.
+I am an economist and assistant instructional professor in economics focusing on the intersection of data science and social science. My research focuses on macroeconomics and economic uncertainty, particularly the causes and impacts of economic uncertainty on the real economy, following a long line of economists from [Keynes](https://academic.oup.com/qje/article-abstract/51/2/209/1939387), [Knight](https://mises.org/sites/default/files/Risk,%20Uncertainty,%20and%20Profit_4.pdf), [Bernanke](https://academic.oup.com/qje/article-abstract/98/1/85/1869115), [Romer](https://academic.oup.com/qje/article-abstract/105/3/597/1864581) and more recently, [Alexopoulos and Cohen](https://www.sciencedirect.com/science/article/pii/S1059056015000246?casa_token=6RCqOTGfNT4AAAAA:3UJ3dQVSy6GapzSbMtLgF3ikJLAWuzXtRMZQpPWudoI13xJVpW-u5UnHWtQWlJUV2YEAgy6G-w), and [Baker, Bloom and Davis](https://academic.oup.com/qje/article/131/4/1593/2468873). I am also pursuing research on pedagogy and prediction using machine learning techniques.
 
-In the classroom I have experience teaching priniciples of economics courses to both undergraduate and graduate students. My recent focus has been on teaching research methods courses that introduce programming and data analytics to students, particularly using Python and R. I also have extensive experience teaching applied machine learning to students in public policy and social science.
+In the classroom I have experience teaching principles of economics courses to both undergraduate and graduate students. My recent focus has been on teaching research methods courses that introduce programming and data analytics to students, particularly using Python and R. I also have extensive experience teaching applied machine learning to students in public policy and social science.
 
 I particularly enjoy leaning on my experience with research in both academia and the public sector to help students prepare for quantitative research roles after graduation. Students of mine have gone on to many roles, from entering PhDs, to becoming data scientists, researchers at non-profit agencies, think tanks, and NGOs, or roles within the government, both in the US and abroad. I have summarized many of the highlights of my work on this site. I am happy to provide further information, including requests for letters of recommendation, talks, and workshops, at my contact info at the bottom of this page!
