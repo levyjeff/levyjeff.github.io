@@ -163,6 +163,16 @@ ninja.data = [{
           description: "",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/individual/";
+            },},{id: "teaching-principles-of-macroeconomics",
+          title: 'Principles of Macroeconomics',
+          description: "",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/macro/";
+            },},{id: "teaching-principles-of-microeconomics",
+          title: 'Principles of Microeconomics',
+          description: "",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/micro/";
             },},{id: "teaching-machine-learning-for-public-policy",
           title: 'Machine Learning for Public Policy',
           description: "",
