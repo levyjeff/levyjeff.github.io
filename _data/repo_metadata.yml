@@ -21,7 +21,7 @@ levyjeff/simple_abm:
   html_url: https://github.com/levyjeff/simple_abm
 UrbanInstitute/pyspark-tutorials:
   stars: 412
-  forks: 182
+  forks: 180
   language: Jupyter Notebook
   description: Code snippets and tutorials for working with social science data in
     PySpark
